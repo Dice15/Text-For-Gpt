@@ -1,30 +1,3 @@
-<table>
-<caption>Layout table</caption>
-<colgroup>
-<col style="width: 55%" />
-<col style="width: 44%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p>[Machine Learning]</p>
-<p>[2023-1]</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Homework 3</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>[Due Date] 2021.05.24</p>
-<p>Student ID :</p>
-<p>Name :</p>
-<p>Professor : Juntae Kim</p></td>
-<td><img src="media/image1.png" style="width:3.29097in;height:1.832in" /><img src="media/image2.png" style="width:1.62292in;height:0.70417in" alt="logo-placeholder" /></td>
-</tr>
-</tbody>
-</table>
-
-Layout table
 
 1.  Explain the differences between K-means and DBSCAN clustering
     > algorithms, and discuss the advantages and disadvantages. (10 pts)
@@ -68,7 +41,7 @@ Layout table
     > you can get the similar result to the K-means. Plot the clusters
     > and outliers. (20 pts)
 
-<img src="media/image3.jpeg" style="width:2.27418in;height:4.11364in" alt="C:\Users\win\Documents\교육\머신러닝\실습자료\9주차 Unsupervised Learning\load-accident.JPG" />
+<img src="load-accident.jpg" style="width:2.27418in;height:4.11364in" alt="load-accident.jpg" />
 
 | Code                    |
 |-------------------------|
@@ -87,7 +60,7 @@ Layout table
 >
 > 1\) Load the data. Use fetch_20newsgroups().
 >
-> <img src="media/image4.png" style="width:4.34491in;height:3.7913in" />
+> <img src="image4.png" style="width:4.34491in;height:3.7913in" />
 >
 > 2\) Make preprocessor function & porter stemmer tokenizer function.
 >
@@ -133,9 +106,3 @@ Layout table
 |                         |
 | Description             |
 |                         |
-
-**Note**
-
-1\. Summit the file to e-class as pdf.
-
-2\. Specify your file name as “hw3\_\<StudentID>\_\<Name>.pdf”
