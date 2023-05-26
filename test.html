@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- page css -->
+    <link rel="stylesheet" href="./styles/generate.css" />
+
+    <!-- module css -->
+    <link rel="stylesheet" href="../../../module/timetablePainter/timetablePainter.css" />
+
+    <!-- page script -->
+    <script src="./scripts/generate.js"></script>
+
+    <title>추천 시간표</title>
+</head>
+
+<body>
+
+    <div class="main">
+        <div class="wrapper">
+            <div class="main-container">
+
+                <div class="main__left">
+                    <form class="timetable-manager-form" action="">
+                        <div class="timetable-manager">
+
+                            <div class="pagemove-button">
+                                <button type="button" class="pagemove-custom" id="pagemove-custom">커스텀
+                                    시간표</button>
+                            </div>
+
+                            <div class="timetable-name-list">
+                                <div class="title">저장된 시간표</div>
+                                <div class="timetable-name">&#9642;시간표1
+                                    <button type="button" class="timetable-remove">삭제</button>
+                                </div>
+                            </div>
+
+                        </div>
+                    </form>
+                </div>
+
+
+                <div class="main__middle">
+                    <div id="recommandation-timetable" class="recommandation-timetable">
+
+                        <div class="display-timetable">
+                            <div class="timetable-header">
+                                <div class="timetable-title__field">
+                                    <!-- timetable title -->
+                                </div>
+                            </div>
+                            <div class="timetable-body">
+                                <div class="timetable__field">
+                                    <!-- timetable -->
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="page-controller">
+                            <div class="page-button">
+                                <button type="button" class="page-first">&lt;&lt; 맨앞</button>
+                                <button type="button" class="page-prev">&lt; 이전</button>
+                                <!--<button type="button" class="page-index">1</button>
+                                    <button type="button" class="page-index">2</button>
+                                    <button type="button" class="page-index">3</button>
+                                    <button type="button" class="page-index">4</button>
+                                    <button type="button" class="page-index">5</button>-->
+                                <button type="button" class="page-next">다음 &gt;</button>
+                                <button type="button" class="page-last">맨뒤 &gt;&gt;</button>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+            </div>
+
+
+            <div>
+                <!-- modal display detail -->
+                <dialog class="modal-display-detail">
+                    <div class="modal__body">
+                        <div class="display_course-info">
+                            <!-- course info-->
+                        </div>
+                    </div>
+                </dialog>
+            </div>
+        </div>
+    </div>
+</body>
