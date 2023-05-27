@@ -1,361 +1,408 @@
-<html lang="en"><head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     <!-- page css -->
-    
+    <link rel="stylesheet" href="./styles/setting.css" />
 
     <!-- module css -->
-    
+    <link rel="stylesheet" href="../../../module/timetablePainter/timetablePainter.css" />
+    <link rel="stylesheet" href="../../../module/loadingMotion/pageLoadingMotion.css" />
 
     <!-- page script -->
-    <script src="./scripts/generate.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
 
-    <title>추천 시간표</title>
-<link rel="stylesheet" href="http://127.0.0.1:5500/client_ver2/pages/autoTimetable/generate/styles/generate.css?_cacheOverride=1685110540994"><link rel="stylesheet" href="http://127.0.0.1:5500/client_ver2/module/timetablePainter/timetablePainter.css?_cacheOverride=1685110540996"></head>
+    <script src="./scripts/setting.js" defer></script>
+    <title>시간표 생성기</title>
+</head>
 
 <body>
-
     <div class="main">
         <div class="wrapper">
             <div class="main-container">
-
+                <!-- --------------------------------------------- main left --------------------------------------------- -->
                 <div class="main__left">
-                    <form class="timetable-manager-form" action="">
-                        <div class="timetable-manager">
+                    <div class="search-form-header"></div>
+                    <form class="search-form" action="">
+                        <div class="alert">
 
-                            <div class="pagemove-button">
-                                <button type="button" class="pagemove-custom" id="pagemove-custom">커스텀
-                                    시간표</button>
+                            <div class="course-semester-select">
+                                <div class="alert-subtitle">강의학기 선택</div>
+                                <label class="search-form__label" for="course-year">강의년도</label>
+                                <select class="search-form__select" name="course-year" id="course-year"></select>
+                                <label class="search-form__label" for="course-semester">강의학기</label>
+                                <select class="search-form__select" name="course-semester"
+                                    id="course-semester"></select>
                             </div>
 
-                            <div class="timetable-name-list">
-                                <div class="title">저장된 시간표</div>
-                                <div class="timetable-name">▪시간표1
-                                    <button type="button" class="timetable-remove">삭제</button>
-                                </div>
+                            <br>
+
+                            <div class="course-category-select">
+                                <div class="alert-subtitle">카테고리 선택</div>
+                                <label class="search-form__label" for="course-curriculum">교육과정</label>
+                                <select class="search-form__select" name="course-curriculum"
+                                    id="course-curriculum"></select>
+                                <label class="search-form__label" for="course-college">대학</label>
+                                <select class="search-form__select" name="course-college" id="course-college"></select>
+                                <label class="search-form__label" for="course-major">전공</label>
+                                <select class="search-form__select" name="course-major" id="course-major"></select>
                             </div>
 
+                            <br>
+
+                            <div class="course-info-input">
+                                <div class="alert-subtitle">추가 정보 입력</div>
+                                <input type="text" class="alert-input" name="course-name" placeholder="강의명">
+                                <input type="text" class="alert-input" name="course-id" placeholder="학수번호">
+                                <input type="text" class="alert-input" name="course-professor" placeholder="담당교수">
+                                <input type="text" class="alert-input" name="course-grade" placeholder="학년">
+                                <input type="text" class="alert-input" name="course-credit" placeholder="학점">
+                            </div>
+
+                            <br>
+
+                            <div class="course-search">
+                                <!-- TODO: 필터 설정: 수강했던 과목 표시/미표시 -->
+                                <!-- TODO: 필터 설정: 선수과목 미수강과목 표시/미표시 -->
+                                <button type="button" class="search-form__submit" id="loadCourse">강의조회</button>
+                                <button type="button" class="search-form__reset" id="resetSearch">초기화</button>
+                            </div>
                         </div>
+
                     </form>
                 </div>
 
 
-                <div class="main__middle">
-                    <div id="recommandation-timetable" class="recommandation-timetable">
 
-                        <div class="display-timetable">
-                            <div class="timetable-header">
-                                <div class="timetable-title__field"><div id="timetable-title0" class="timetable-title"><div id="painter-timetable-title" class="painter-timetable-title" style="height: 50px;">
-    <div class="timetable-title" style="height:50px;">
-        <div class="timetable-title-text" style="height:50px;">
-            시간표1 - 15학점
-        </div>
-        <div class="timetable-select-button" style="height:50px;">
-        <button type="button" class="timetable-save" id="timetable-save">🖫 시간표 저장</button>
-        </div>
-    </div></div></div><div id="timetable-title1" class="timetable-title"><div id="painter-timetable-title" class="painter-timetable-title" style="height: 50px;">
-    <div class="timetable-title" style="height:50px;">
-        <div class="timetable-title-text" style="height:50px;">
-            시간표2 - 15학점
-        </div>
-        <div class="timetable-select-button" style="height:50px;">
-        <button type="button" class="timetable-save" id="timetable-save">🖫 시간표 저장</button>
-        </div>
-    </div></div></div></div>
-                            </div>
-                            <div class="timetable-body">
-                                <div class="timetable__field"><div id="timetable0" class="timetable"><div id="painter-timetable" class="painter-timetable" style="height: 690px;">
-    <div class="timetable-head" style="height:30px;">
-        <table class="timetable-head" style="height:30px;">
-             <tbody>
-                <tr>
-                <th>&nbsp;</th>
-                <td class="timetable-td-weekday">월</td><td class="timetable-td-weekday">화</td><td class="timetable-td-weekday">수</td><td class="timetable-td-weekday">목</td><td class="timetable-td-weekday">금</td><td class="timetable-td-weekend" style="display: none;">토</td><td class="timetable-td-weekend" style="display: none;">일</td>
-                </tr>
-            </tbody>
-        </table>
-    </div>
-
-    <div class="timetable-body" style="height:660px;">
-        <table class="timetable-body" style="height:660px;">
-            <tbody>
-                <tr>
-                <th><div class="hour-blocks" style="height:660px;"><div class="hour-block" style="height:41.25px;">&nbsp;8:00 am</div><div class="hour-block" style="height:41.25px;">&nbsp;9:00 am</div><div class="hour-block" style="height:41.25px;">10:00 am</div><div class="hour-block" style="height:41.25px;">11:00 am</div><div class="hour-block" style="height:41.25px;">12:00 am</div><div class="hour-block" style="height:41.25px;">&nbsp;1:00 pm</div><div class="hour-block" style="height:41.25px;">&nbsp;2:00 pm</div><div class="hour-block" style="height:41.25px;">&nbsp;3:00 pm</div><div class="hour-block" style="height:41.25px;">&nbsp;4:00 pm</div><div class="hour-block" style="height:41.25px;">&nbsp;5:00 pm</div><div class="hour-block" style="height:41.25px;">&nbsp;6:00 pm</div><div class="hour-block" style="height:41.25px;">&nbsp;7:00 pm</div><div class="hour-block" style="height:41.25px;">&nbsp;8:00 pm</div><div class="hour-block" style="height:41.25px;">&nbsp;9:00 pm</div><div class="hour-block" style="height:41.25px;">10:00 pm</div><div class="hour-block" style="height:41.25px;">11:00 pm</div></div></th>
-                
-                <td class="timetable-td-weekday">
-                    <div class="course-blocks"></div>
-                    <div class="course-fields"><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div></div>                         
-                </td>
-                <td class="timetable-td-weekday">
-                    <div class="course-blocks"><div class="course-block color1" style="height: 68.75px; top: 412.5px;">
-                    
-        <h3>컴퓨터공학종합설계1</h3>
-        <p>
-            <em>정진우</em>
-            <span></span>
-        </p></div><div class="course-block color2" style="height: 82.5px; top: 206.25px;">
-                    
-        <h3>객체지향설계와패턴</h3>
-        <p>
-            <em>최은만</em>
-            <span></span>
-        </p></div><div class="course-block color4" style="height: 61.875px; top: 103.125px;">
-                    
-        <h3>컴퓨터네트워킹</h3>
-        <p>
-            <em>안종석</em>
-            <span></span>
-        </p></div></div>
-                    <div class="course-fields"><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div></div>                         
-                </td>
-                <td class="timetable-td-weekday">
-                    <div class="course-blocks"><div class="course-block color3" style="height: 82.5px; top: 288.75px;">
-                    
-        <h3>머신러닝</h3>
-        <p>
-            <em>김준태</em>
-            <span></span>
-        </p></div><div class="course-block color5" style="height: 82.5px; top: 82.5px;">
-                    
-        <h3>컴퓨터보안</h3>
-        <p>
-            <em>김영부</em>
-            <span></span>
-        </p></div></div>
-                    <div class="course-fields"><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div></div>                         
-                </td>
-                <td class="timetable-td-weekday">
-                    <div class="course-blocks"><div class="course-block color2" style="height: 82.5px; top: 82.5px;">
-                    
-        <h3>객체지향설계와패턴</h3>
-        <p>
-            <em>최은만</em>
-            <span></span>
-        </p></div><div class="course-block color3" style="height: 82.5px; top: 288.75px;">
-                    
-        <h3>머신러닝</h3>
-        <p>
-            <em>김준태</em>
-            <span></span>
-        </p></div><div class="course-block color4" style="height: 61.875px; top: 226.875px;">
-                    
-        <h3>컴퓨터네트워킹</h3>
-        <p>
-            <em>안종석</em>
-            <span></span>
-        </p></div></div>
-                    <div class="course-fields"><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div></div>                         
-                </td>
-                <td class="timetable-td-weekday">
-                    <div class="course-blocks"><div class="course-block color1" style="height: 82.5px; top: 330px;">
-                    
-        <h3>컴퓨터공학종합설계1</h3>
-        <p>
-            <em>정진우</em>
-            <span></span>
-        </p></div><div class="course-block color5" style="height: 82.5px; top: 226.875px;">
-                    
-        <h3>컴퓨터보안</h3>
-        <p>
-            <em>김영부</em>
-            <span></span>
-        </p></div></div>
-                    <div class="course-fields"><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div></div>                         
-                </td>
-                <td class="timetable-td-weekend" style="display: none;">
-                    <div class="course-blocks"></div>
-                    <div class="course-fields"><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div></div>                         
-                </td>
-                <td class="timetable-td-weekend" style="display: none;">
-                    <div class="course-blocks"></div>
-                    <div class="course-fields"><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div></div>                         
-                </td>
-                </tr>
-            </tbody>
-        </table>
-    </div></div></div><div id="timetable1" class="timetable"><div id="painter-timetable" class="painter-timetable" style="height: 690px;">
-    <div class="timetable-head" style="height:30px;">
-        <table class="timetable-head" style="height:30px;">
-             <tbody>
-                <tr>
-                <th>&nbsp;</th>
-                <td class="timetable-td-weekday">월</td><td class="timetable-td-weekday">화</td><td class="timetable-td-weekday">수</td><td class="timetable-td-weekday">목</td><td class="timetable-td-weekday">금</td><td class="timetable-td-weekend" style="display: none;">토</td><td class="timetable-td-weekend" style="display: none;">일</td>
-                </tr>
-            </tbody>
-        </table>
-    </div>
-
-    <div class="timetable-body" style="height:660px;">
-        <table class="timetable-body" style="height:660px;">
-            <tbody>
-                <tr>
-                <th><div class="hour-blocks" style="height:660px;"><div class="hour-block" style="height:41.25px;">&nbsp;8:00 am</div><div class="hour-block" style="height:41.25px;">&nbsp;9:00 am</div><div class="hour-block" style="height:41.25px;">10:00 am</div><div class="hour-block" style="height:41.25px;">11:00 am</div><div class="hour-block" style="height:41.25px;">12:00 am</div><div class="hour-block" style="height:41.25px;">&nbsp;1:00 pm</div><div class="hour-block" style="height:41.25px;">&nbsp;2:00 pm</div><div class="hour-block" style="height:41.25px;">&nbsp;3:00 pm</div><div class="hour-block" style="height:41.25px;">&nbsp;4:00 pm</div><div class="hour-block" style="height:41.25px;">&nbsp;5:00 pm</div><div class="hour-block" style="height:41.25px;">&nbsp;6:00 pm</div><div class="hour-block" style="height:41.25px;">&nbsp;7:00 pm</div><div class="hour-block" style="height:41.25px;">&nbsp;8:00 pm</div><div class="hour-block" style="height:41.25px;">&nbsp;9:00 pm</div><div class="hour-block" style="height:41.25px;">10:00 pm</div><div class="hour-block" style="height:41.25px;">11:00 pm</div></div></th>
-                
-                <td class="timetable-td-weekday">
-                    <div class="course-blocks"><div class="course-block color5" style="height: 61.875px; top: 165px;">
-                    
-        <h3>Academic Reading and Discussion</h3>
-        <p>
-            <em>데미안</em>
-            <span></span>
-        </p></div></div>
-                    <div class="course-fields"><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div></div>                         
-                </td>
-                <td class="timetable-td-weekday">
-                    <div class="course-blocks"><div class="course-block color1" style="height: 68.75px; top: 412.5px;">
-                    
-        <h3>컴퓨터공학종합설계1</h3>
-        <p>
-            <em>정진우</em>
-            <span></span>
-        </p></div><div class="course-block color2" style="height: 82.5px; top: 206.25px;">
-                    
-        <h3>객체지향설계와패턴</h3>
-        <p>
-            <em>최은만</em>
-            <span></span>
-        </p></div><div class="course-block color4" style="height: 61.875px; top: 103.125px;">
-                    
-        <h3>컴퓨터네트워킹</h3>
-        <p>
-            <em>안종석</em>
-            <span></span>
-        </p></div></div>
-                    <div class="course-fields"><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div></div>                         
-                </td>
-                <td class="timetable-td-weekday">
-                    <div class="course-blocks"><div class="course-block color3" style="height: 82.5px; top: 288.75px;">
-                    
-        <h3>머신러닝</h3>
-        <p>
-            <em>김준태</em>
-            <span></span>
-        </p></div><div class="course-block color5" style="height: 61.875px; top: 123.75px;">
-                    
-        <h3>Academic Reading and Discussion</h3>
-        <p>
-            <em>데미안</em>
-            <span></span>
-        </p></div></div>
-                    <div class="course-fields"><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div></div>                         
-                </td>
-                <td class="timetable-td-weekday">
-                    <div class="course-blocks"><div class="course-block color2" style="height: 82.5px; top: 82.5px;">
-                    
-        <h3>객체지향설계와패턴</h3>
-        <p>
-            <em>최은만</em>
-            <span></span>
-        </p></div><div class="course-block color3" style="height: 82.5px; top: 288.75px;">
-                    
-        <h3>머신러닝</h3>
-        <p>
-            <em>김준태</em>
-            <span></span>
-        </p></div><div class="course-block color4" style="height: 61.875px; top: 226.875px;">
-                    
-        <h3>컴퓨터네트워킹</h3>
-        <p>
-            <em>안종석</em>
-            <span></span>
-        </p></div></div>
-                    <div class="course-fields"><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div></div>                         
-                </td>
-                <td class="timetable-td-weekday">
-                    <div class="course-blocks"><div class="course-block color1" style="height: 82.5px; top: 330px;">
-                    
-        <h3>컴퓨터공학종합설계1</h3>
-        <p>
-            <em>정진우</em>
-            <span></span>
-        </p></div></div>
-                    <div class="course-fields"><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div></div>                         
-                </td>
-                <td class="timetable-td-weekend" style="display: none;">
-                    <div class="course-blocks"></div>
-                    <div class="course-fields"><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div></div>                         
-                </td>
-                <td class="timetable-td-weekend" style="display: none;">
-                    <div class="course-blocks"></div>
-                    <div class="course-fields"><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div><div class="course-field" style="height:41.25px;"></div></div>                         
-                </td>
-                </tr>
-            </tbody>
-        </table>
-    </div></div></div></div>
+                <!-- --------------------------------------------- main middle --------------------------------------------- -->
+                <div class="main-middle">
+                    <div class="lecutre-lists-header">
+                        <div class="title">강의 시간표 목록</div>
+                        <div class="counter">&#91;검색된 강의 수: 0&#93;</div>
+                    </div>
+                    <div class="lecture-view">
+                        <div class="lecture-card">
+                            <div class="table-wrapper table-wrapper--course-list">
+                                <div class="thead-container">
+                                    <table class="table" id="courseTable">
+                                        <thead>
+                                            <tr class="table__row">
+                                                <th class="table__heading table_heading--empty">&nbsp;</th>
+                                                <!-- TODO: 수강기록 기능 추가 필요. 상태) 수강가능, 재수강, 선수과목 이수 필요 -->
+                                                <!-- TODO : 수강 불가능시 disabled 이때 따로 class 설정해두기 -->
+                                                <th class="table__heading table_heading--grade">학년</th>
+                                                <th class="table__heading table_heading--curriculumn">교과과정</th>
+                                                <th class="table__heading table_heading--id">학수번호</th>
+                                                <th class="table__heading table_heading--name">교과목명</th>
+                                                <th class="table__heading table_heading--professor">교원명</th>
+                                                <th class="table__heading table_heading--rating">강의평점</th>
+                                                <th class="table__heading table_heading--credit">학점</th>
+                                                <th class="table__heading table_heading--detail">상세정보</th>
+                                            </tr>
+                                        </thead>
+                                    </table>
+                                </div>
+                                <div class="tbody-container">
+                                    <table class="table">
+                                        <tbody>
+                                            <!-- tbody 내용 -->
+                                        </tbody>
+                                    </table>
+                                </div>
                             </div>
                         </div>
+                    </div>
 
-                        <div class="page-controller">
-                            <div class="page-button">
-                                <button type="button" class="page-first">&lt;&lt; 맨앞</button>
-                                <button type="button" class="page-prev">&lt; 이전</button>
-                                <!--<button type="button" class="page-index">1</button>
-                                    <button type="button" class="page-index">2</button>
-                                    <button type="button" class="page-index">3</button>
-                                    <button type="button" class="page-index">4</button>
-                                    <button type="button" class="page-index">5</button>-->
-                                <button type="button" class="page-index selected-button" value="0" disabled="">1</button><button type="button" class="page-index unselected-button" value="1">2</button><button type="button" class="page-index unselected-button" value="2">3</button><button type="button" class="page-index unselected-button" value="3">4</button><button type="button" class="page-index unselected-button" value="4">5</button><button type="button" class="page-next">다음 &gt;</button>
-                                <button type="button" class="page-last">맨뒤 &gt;&gt;</button>
+                    <br>
+
+                    <div class="selected-lecutre-lists-header">
+                        <div class="title">후보 강의 목록</div>
+                        <div class="counter">&#91;선택한 강의 수: 0&#93;</div>
+                    </div>
+                    <div class="lecture-view">
+                        <div class="lecture-card">
+                            <div class="table-wrapper table-wrapper--selected-course-list">
+                                <div class="thead-container">
+                                    <table class="table" id="selectedCourseTable">
+                                        <thead>
+                                            <tr class="table__row">
+                                                <th class="table__heading table_heading--empty">&nbsp;</th>
+                                                <th class="table__heading table_heading--grade">학년</th>
+                                                <th class="table__heading table_heading--curriculumn">교과과정</th>
+                                                <th class="table__heading table_heading--id">학수번호</th>
+                                                <th class="table__heading table_heading--name">교과목명</th>
+                                                <th class="table__heading table_heading--professor">교원명</th>
+                                                <th class="table__heading table_heading--rating">선호도 설정</th>
+                                                <th class="table__heading table_heading--credit">학점</th>
+                                                <th class="table__heading table_heading--detail">상세정보</th>
+                                            </tr>
+                                        </thead>
+                                    </table>
+                                </div>
+                                <div class="tbody-container">
+                                    <table class="table">
+                                        <tbody>
+                                            <!-- tbody 내용 -->
+                                        </tbody>
+                                    </table>
+                                </div>
                             </div>
                         </div>
-
                     </div>
                 </div>
 
+
+
+                <!-- --------------------------------------------- main right --------------------------------------------- -->
+                <div class="main__right">
+                    <div class="setting-form-header"></div>
+                    <div class="setting-form-wrapper">
+
+                        <div class="setting-form-subtitle">목표학점 설정</div>
+                        <form class="setting-form">
+                            <div class="setting-form__field">
+                                <div class="setting-form__upper">
+                                    <select class="setting-form__select setting-form__select--credit" name="credit"
+                                        id="credit">
+                                        <!-- credit options -->
+                                    </select>
+                                    <div class="setting-form__checkbox">
+                                        <input class="setting-form__range-credit" type="checkbox" name="range"
+                                            id="range" />
+                                        <label class="range-btn" data-tg-off="단일" data-tg-on="범위" for="range"></label>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+
+                        <br>
+
+                        <div class="setting-form-subtitle">공강시간 설정</div>
+                        <label class="search-form__label">요일 공강</label>
+
+                        <form class="setting-form">
+                            <div class="setting-form__field">
+                                <div class="setting-form__middle">
+                                    <div class="setting-form__checkbox">
+                                        <input class="setting-form__check-gapDay" type="checkbox" name="gapDay"
+                                            id="monday" value="monday" />
+                                        <label class="gapDay-btn" data-tg-off="월" data-tg-on="월" for="monday"></label>
+                                    </div>
+                                    <div class="setting-form__checkbox">
+                                        <input class="setting-form__check-gapDay" type="checkbox" name="gapDay"
+                                            id="tuesday" value="tuesday" />
+                                        <label class="gapDay-btn" data-tg-off="화" data-tg-on="화" for="tuesday"></label>
+                                    </div>
+                                    <div class="setting-form__checkbox">
+                                        <input class="setting-form__check-gapDay" type="checkbox" name="gapDay"
+                                            id="wednesday" value="wednesday" />
+                                        <label class="gapDay-btn" data-tg-off="수" data-tg-on="수"
+                                            for="wednesday"></label>
+                                    </div>
+                                    <div class="setting-form__checkbox">
+                                        <input class="setting-form__check-gapDay" type="checkbox" name="gapDay"
+                                            id="thursday" value="thursday" />
+                                        <label class="gapDay-btn" data-tg-off="목" data-tg-on="목" for="thursday"></label>
+                                    </div>
+                                    <div class="setting-form__checkbox">
+                                        <input class="setting-form__check-gapDay" type="checkbox" name="gapDay"
+                                            id="friday" value="friday" />
+                                        <label class="gapDay-btn" data-tg-off="금" data-tg-on="금" for="friday"></label>
+                                    </div>
+                                    <div class="setting-form__checkbox">
+                                        <input class="setting-form__check-gapDay" type="checkbox" name="gapDay"
+                                            id="saturday" value="saturday" />
+                                        <label class="gapDay-btn" data-tg-off="토" data-tg-on="토" for="saturday"></label>
+                                    </div>
+                                    <div class="setting-form__checkbox">
+                                        <input class="setting-form__check-gapDay" type="checkbox" name="gapDay"
+                                            id="sunday" value="sunday" />
+                                        <label class="gapDay-btn" data-tg-off="일" data-tg-on="일" for="sunday"></label>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+
+                        <label class="search-form__label">일일 공강</label>
+                        <form class="setting-form">
+                            <div class="setting-form__field">
+                                <div class="setting-form__lower">
+                                    <select class="setting-form__select" name="day" id="day">
+                                        <option value="월">월</option>
+                                        <option value="화">화</option>
+                                        <option value="수">수</option>
+                                        <option value="목">목</option>
+                                        <option value="금">금</option>
+                                        <option value="토">토</option>
+                                        <option value="일">일</option>
+                                    </select>
+                                    <select class="setting-form__select" name="begin" id="begin">
+                                        <option value="08:00">08:00</option>
+                                        <option value="08:30">08:30</option>
+                                        <option value="09:00">09:00</option>
+                                        <option value="09:30">09:30</option>
+                                        <option value="10:00">10:00</option>
+                                        <option value="10:30">10:30</option>
+                                        <option value="11:00">11:00</option>
+                                        <option value="11:30">11:30</option>
+                                        <option value="12:00">12:00</option>
+                                        <option value="12:30">12:30</option>
+                                        <option value="13:00">13:00</option>
+                                        <option value="13:30">13:30</option>
+                                        <option value="14:00">14:00</option>
+                                        <option value="14:30">14:30</option>
+                                        <option value="15:00">15:00</option>
+                                        <option value="15:30">15:30</option>
+                                        <option value="16:00">16:00</option>
+                                        <option value="16:30">16:30</option>
+                                        <option value="17:00">17:00</option>
+                                        <option value="17:30">17:30</option>
+                                        <option value="18:00">18:00</option>
+                                        <option value="18:30">18:30</option>
+                                        <option value="19:00">19:00</option>
+                                        <option value="19:30">19:30</option>
+                                        <option value="20:00">20:00</option>
+                                        <option value="20:30">20:30</option>
+                                        <option value="21:00">21:00</option>
+                                        <option value="21:30">21:30</option>
+                                        <option value="22:00">22:00</option>
+                                        <option value="22:30">22:30</option>
+                                        <option value="23:00">23:00</option>
+                                    </select>
+                                    <span class="setting-form__text">~</span>
+                                    <select class="setting-form__select" name="end" id="end">
+                                        <option value="08:30">08:30</option>
+                                        <option value="09:00">09:00</option>
+                                        <option value="09:30">09:30</option>
+                                        <option value="10:00">10:00</option>
+                                        <option value="10:30">10:30</option>
+                                        <option value="11:00">11:00</option>
+                                        <option value="11:30">11:30</option>
+                                        <option value="12:00">12:00</option>
+                                        <option value="12:30">12:30</option>
+                                        <option value="13:00">13:00</option>
+                                        <option value="13:30">13:30</option>
+                                        <option value="14:00">14:00</option>
+                                        <option value="14:30">14:30</option>
+                                        <option value="15:00">15:00</option>
+                                        <option value="15:30">15:30</option>
+                                        <option value="16:00">16:00</option>
+                                        <option value="16:30">16:30</option>
+                                        <option value="17:00">17:00</option>
+                                        <option value="17:30">17:30</option>
+                                        <option value="18:00">18:00</option>
+                                        <option value="18:30">18:30</option>
+                                        <option value="19:00">19:00</option>
+                                        <option value="19:30">19:30</option>
+                                        <option value="20:00">20:00</option>
+                                        <option value="20:30">20:30</option>
+                                        <option value="21:00">21:00</option>
+                                        <option value="21:30">21:30</option>
+                                        <option value="22:00">22:00</option>
+                                        <option value="22:30">22:30</option>
+                                        <option value="23:00">23:00</option>
+                                        <option value="23:30">23:30</option>
+                                    </select>
+                                    <div class="setting-form__actions">
+                                        <button type="button" class="setting-form__add" name="add" id="addRestTime">
+                                            +
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+
+                        <div class="breaktime-view">
+                            <div class="breaktime-card">
+                                <div class="table-wrapper table-wrapper--gap-list">
+                                    <div class="thead-container">
+                                        <table class="table" id="selectedCourseTable">
+                                            <thead>
+                                                <tr class="table__row">
+                                                    <th class="table__heading table_heading--empty">&nbsp;</th>
+                                                    <th class="table__heading table_heading--breaktime">공강 시간</th>
+                                                </tr>
+                                            </thead>
+                                        </table>
+                                    </div>
+                                    <div class="tbody-container">
+                                        <table class="table">
+                                            <tbody>
+                                                <!-- tbody 내용 -->
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <br>
+
+                        <div class="setting-button">
+                            <button type="button" class="main__button main__button--create" id="createTimeTable">
+                                시간표 생성</button>
+                            <button type="button" class="main__button main__button--template"
+                                id="openPresetManager">프리셋</button>
+                            <button type="button" class="main__button main__button--reset"
+                                id="openPresetManager">초기화</button>
+                        </div>
+                    </div>
+                </div>
             </div>
 
 
-            <div>
+
+
+            <!-- --------------------------------------------- modals --------------------------------------------- -->
+            <div class="modal">
                 <!-- modal display detail -->
                 <dialog class="modal-display-detail">
-                    <div class="modal__body">
+                    <div class="modal__title">
                         <div class="display_course-info">
                             <!-- course info-->
                         </div>
                     </div>
+                    <div class="modal__body">
+                        <div class="display__timetable">
+                            <!-- course timetable -->
+                        </div>
+                    </div>
+                </dialog>
+
+
+                <!-- preset manager -->
+                <dialog class="modal-setting__preset-manager">
+                    <div class="modal__title">템플릿 선택
+                        <button type="button" class="close-modal">&times;</button>
+                    </div>
+                    <div class="modal__body">
+                        <div class="preset__info">
+                            <div class="custom-select">
+                                <select class="select-preset">
+                                    <option value="0">템플릿1</option>
+                                    <option value="1">템플릿2</option>
+                                    <option value="2">템플릿3</option>
+                                    <option value="3">템플릿4</option>
+                                    <option value="4">템플릿5</option>
+                                </select>
+                            </div>
+                        </div>
+
+                        <textarea class="memo-preset" cols="30" rows="5" placeholder="여기에 메모.."
+                            id="presetMemo"></textarea>
+                        <div class="action-preset">
+                            <button type="button" class="action-preset__button" value="load">불러오기</button>
+                            <button type="button" class="action-preset__button" value="save">저장</button>
+                            <button type="button" class="action-preset__button" value="reset">초기화</button>
+                        </div>
+                    </div>
                 </dialog>
             </div>
+     
         </div>
     </div>
-<!-- Code injected by live-server -->
-<script>
-	// <![CDATA[  <-- For SVG support
-	if ('WebSocket' in window) {
-		(function () {
-			function refreshCSS() {
-				var sheets = [].slice.call(document.getElementsByTagName("link"));
-				var head = document.getElementsByTagName("head")[0];
-				for (var i = 0; i < sheets.length; ++i) {
-					var elem = sheets[i];
-					var parent = elem.parentElement || head;
-					parent.removeChild(elem);
-					var rel = elem.rel;
-					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
-						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
-						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
-					}
-					parent.appendChild(elem);
-				}
-			}
-			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
-			var address = protocol + window.location.host + window.location.pathname + '/ws';
-			var socket = new WebSocket(address);
-			socket.onmessage = function (msg) {
-				if (msg.data == 'reload') window.location.reload();
-				else if (msg.data == 'refreshcss') refreshCSS();
-			};
-			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
-				console.log('Live reload enabled.');
-				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
-			}
-		})();
-	}
-	else {
-		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
-	}
-	// ]]>
-</script>
-</body></html>
+</body>
