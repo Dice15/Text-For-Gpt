@@ -1,92 +1,89 @@
-When you heard of a word ‘Ethics’, what do you think about? In general, you might think ‘I could lose money’.
-Let me introduce you an article. There is an article saying ‘A good company has good people rather than good technologies. Ethics, rather than profits, results a company of 200 year.
-What the article states is this. Ethisphere Institute, a global research institute for business ethics has named a company as the most ethical enterprise for 8 years. That is Schneider Electric. The article above is an interview of Eric Leger, senior vice president of global marketing.
-To give brief information about Schneider Electric, the company is established in France 1836. It is a global enterprise of energy control and process automation with a history of 182 years.
-It is also a company that has extended to over 100 countries. Its market share of global uninterruptable power supply(UPS) reaches 40%.
-It is also a company known for its long-term contributions such as the support for energy poor, and its workplace culture of gender equality.
-According to Eric Leger, the senior vice president of such enterprise, “If I am asked to choose between a profit and ethics of your company, I unconditionally choose the ethics without a doubt.”
-At the same time, he emphasized the importance of ethics saying “it takes a long time for a company to build good reputation, it is easily collapsed by a single mistake in the aspect of ethics”.
-Let me show you another article. ‘the loss of domestic enterprise by cyber attacks reaches 79 trillion wons’.
-In June 2018, Microsoft Korea, in a cooperation with Frost & Sullivan which is a global consulting company, presented a report on cyber threats.
-According to the report, direct and indirect loss of domestic enterprise caused by botnet attacks that result lots of zombie PCs, ransomware attacks, and phishing attacks reach about 79 trillion wons which is about 5% of GDP.
-Moreover, large enterprises in South Korea were reported to averagely have a financial loss of 30 billion wons for each.
-Seunghwan Choi, a board member of Frost & Sullivan stated such loss is only an iceberg phenomenon and the iceberg under water, indirect and additional loss being hidden, is much serious.
-Customer churn as a result of cyber attack, a loss of business reputation, an unemployment as a punishment for responsibility. The damage caused by such indirect loss and additional loss reaches almost 90% of the overall loss, says he.
-Along with such situation, there is a report on the condition of security awareness in domestic countries.
-According to the awareness survey, however, 39% of domestic enterprises has replied that they do not know whether there was a security breach or a cyber attack.
-About 10% of the respondents replied that they have experienced a security breach, and another 10% replied that they are not aware whether there was a cyber attack.
-Along with the rapid growth of technologies, there are more cases that abuse technologies. And the methods of abuse has become more sophisticated.
-However, the user’s security or ethic awareness is still low. And there has been no action on it.
-We call today as the era of the 4th industrial revolution. If we say the era of the 3rd industrial revolution was on information technology, the era of the fourth industrial revolution is an intelligence information society centered on the intelligence information.
-Having its basis on connection and intelligence, it is a society that not ourselves but human beings and objects, together with intelligence, lead.
-The society can be explained by IoT, cloud, big data, and mobile(ICBM) or data, network, and AI(DNA).
-It is a society where information technology and intelligence called as AI are combined so that a bulk of data is generated, continuously developed, and expanded.
-An AI product independently operates judging and deciding by itself. And it generates another function that seeks for a new goal by deep learning, by learning a new function by itself.
-Therefore, new ethical issues, that cannot be dealt with existing ethical criteria, are occurring.
-For instance, there are cases of autonomous vehicles that you have heard a lot. To see an exemplary case, there was a case that a Tesla vehicle left the road in California, USA. The car crashed through the fence and fell into a pond so that it ended up with a death of its driver.
-It is not yet found whether the vehicle was on auto-pilot mode which is the partially autonomous driving mode of Tesla, or the driver drove overspeed or under the influence.
-Today, from such cases, many people bring up an issue on ‘whether an autonomous vehicle is safe?’.
-If such accident of autonomous vehicle occurs, who would have the responsibility?
-Regarding such questions, The Korea Transport Institute conducted a survey about the Ethics of autonomous car targeting drivers, non-drivers licenses and experts. The targets were 400 of drivers, 300 of non-drivers licenses and 75 of experts.
-Firstly, for the quesiton about compliance with traffic regulations during driving on the road by the autonomous car, especially with speed limit, 73% of drivers, 78% of non-drivers licenses and 67% of experts answered that it must throughly comply with the traffic regulations.
-In addition, when questioned about the responsibility in the case of violation of the traffic regulation during the autonomous car, which is not owned by an individual, but owned by joint owner, the opinions from the drivers, non-drivers licenses and experts were that the shared car owner or manufacturer is highly responsible for the violation.
-44% of drivers and 38% of non-drivers licenses answered that it is a responsibility of the joint owner of the shared car and 75 of experts answered that it is a responsibility of the shared car system operator.
-Additionally, the response rate for the opinion that it is a responsibility of manufacturer were shown 31% of drivers, 34% of non-drivers licenses and 27% of experts. 14% of drivers and 9% of non-drivers licenses answered that it is a responsibility of the passenger, on the other hand, only 8% of experts answered that it is a responsibility of the passenger.
-Apart from the opinions, 22% of experts answered that all the three parties are responsible.
-Next, for the question about the responsibility during the autonomous car driving without a passenger, the answered were shown noticeably different. Firstly, 33% of drivers and 26% of non-drivers licenses answered that it is a responsibility of the owner of the autonomous car, however, only 16% of the expert answered that it is a responsibility of the owner.
-Additionally, the response rate for the opinion that it is a responsibility of the manufacturer were shown 40% of the drivers and 35% of the non-driver licenses, on the other hand, 52% of experts, which is more than half of the expert group answered that the manufacturer is responsible for the accident occurred during the autonomous car driving.
-The response rate of the opinion that all the parties are partially responsible were shown 27% of drivers, 38% of non-drivers licenses and 30% of experts.
-Likewise, besides the dysfunctions such as addiction, data spill of personal information, infringement of copyright, and security breach, the era of the fourth industry resulted new ethical issues for a manufacturer, provider, user, or owner as a result of AI software and robot industry.
-Therefore, this course is to let you consider what to prepare as a digital citizen in the intelligence information society by discussing about major issues of digital ethics being focused on the feature of the era of the fourth industrial revolution.
-Today in particular, by interviewing an expert in the field, we are going to see what kinds of ethical issues appear in the industries encountering the era of the fourth industrial revolution.
-It would be a time for you to practically recognize the needs of ethics by the interview.
-Cheol Park, a board member. 2000.1~2008.8 / CEO of Diginics 2008.8~2012.0 / CEO of Say Beat Telecom 2012.9~2017.3 / Board member of Accupix 2017.3~ / Present board member of Korea Artificial Intelligence Association
-Q : What is Korea Artificial Intelligence Association(KORAIA)?
-A : KORAIA is an association of the thinking people with a proposition of the future we choose as the society is entering to the era of the fourth industrial revolution.
-Although it is an association established being headed by various start-up companies and ICT companies, its members include AI experts and others interested in human beings and this era as well.
-It is because the future world would utilize data from collective intelligence and convergence technology resulted from mature social consciousness.
-We are focusing on the enjoyable communication with the world without building any barrier of AI technology.
-In a sense, you can say that we are just ordinary citizens who share the meaning of the realization of human dignity through the fourth industrial revolution while working diligently in where each of us belongs despite of the field.
-Therefore, with the goal of realization of a human-focus society along with technology, we are to have the role of game changer that designs the criteria of new era and civilization rather than being dragged by changing world.
-Q : What is a major key word of business management or technological development in the era of the 4th industrial revolution?
-A : Although the goal of an enterprise is a profit, the most important thing for business management would be a permanency. The enterprise should be continued.
-One of the barriers that an enterprise experiences while manufacturing or selling is the ethics. As there are many cases that the ethics conflicts with a profit, it becomes an issue for an enterprise.
-At such time, although the immediate profit might be greater, it returns as a considerable blow against the permanency of the enterprise in many cases.
-As the technology is developed, such issues increases. Therefore, the ethics would be a very important keyword for enterprise activities.
-Q : What would be the possible ethical issue in the era of the fourth industrial revolution?
-A : As it is a society where information and technology lead, different ethical issues occur on the production, distribution, and use of information and technology.
-Issues regarding information security on the process of information distribution via the Internet, copyright issues on the process of development, and various accidents of malfunction are occurring. Such issues are considered to have a close relation with ethics.
-Q : Case regarding possible ethical issues in the era of the fourth industrial revolution.
-A: In fact, my company developed a new product and the product resulted a good response so that the company profit increased and received compliments.
-Then, some of the employees who were involved in the product development left the company, established a separate company, duplicated the product, and sold it.
-Firstly, it was an infringement of copyright. And it was a violation of Trade Secret Protection Act. It was an immoral behavior that could result a death blow on business activities.
-Due to it, my company had a huge blog that resulted a terrible financial difficulty. And those who established the company personally encountered legal problems.
-There was an Internet phone service company that one of my friends owned. The company had a case being sued because customer information was spilled.
-It was a case that an employee of the company spilled customer information to a rival company. It resulted not just a blow on the company where its information was robbed but other inconveniences as customer information was spilled. The company was sued by its customers.
-Recently, I participated on an ethics forum regarding AI held by National Information Society Agency. During the forum, many debates were processed by the participations of related enterprises, researchers, and the government.
-I found out that there are a lot of people who seriously concerns different influences that AI technology could affect and following ethical issues.
-Q : What are the ethical issues that could potentially occur along with increase of industries regarding AI, the Internet of Things, and big data?
-An AI causes a problem by itself it not just a story in the future but one of the issues in recent days.
-You must know that an AI speaker recently run a voice recorder lately without a request from its user. And it sent one’s private life via E-mail.
-And, as the Internet of Things is designed to remote control the whole functions, if it is hacked, it would result something unwanted.
-A touch sensor might seem free from the ethical issues but it also has a high risk of a damage by data spill since, in case of healthcare or something alike that the technology is applied on, there are many functions or services that saves personal information.
-Q : What would be a social responsibility of an enterprise regarding development of new technology and commercialization?
-A : For any enterprise, it has a responsibility to contribute on the society. Thus, when a product or service is introduced, the enterprise must consider possible influence of the new technology for human beings. And there should be ample prevention strategies against a malfunction or hacking.
-And the product and service should be designed to be a help for human beings. Something that has a harm must be refrained by the enterprise itself.
-Q : What is KORAIA preparing for the AI ethics?
-A : For now, KORAIA is preparing strategies to control the AI technology ethically.
-Basically, we are trying to head toward a direction that the AI technology becomes a help for the human beings through the certification and standardization of products.
-As an effort, we have a committee of certification and standardization. We are trying to provide a guideline for technological development and the usage of technology.
-In future, there will be lots of AI products. From the committee, we are trying to estimate such products depending on certain strategy having its safety on the top, to rate the level of its technical skills, and to provide such information for the users.
-Q : Do you have any words for the students taking this course?
-A : It is not an exaggeration to say that human history has been achieved by numerous number of developers. Their efforts, inventions, and technologies have been contributed to the human beings. Moreover, through the industrial revolution, the power and value of technology have been emphasized. As a result, the role of technicians has become important.
-In particular, as the ICT is leading human society, students learning engineering must be more burdened.
-You must notice a lot, once a technology is unproperly used, it could result an enormous damage. You should remember the ethics of developer so that you would not hack into others or develop any technology that harms others.
-Along with such ethics, you should understand laws and regulations regarding engineering enough to prevent yourself committing a crime without knowing it. The future of human beings is on you. I hope you never forget that.
-Q : What are the influence that AI technology has on human beings and the ethical measures on it?
-A : As you know, AI is amazingly being developed. To what level the AI would be developed? That is a big issue for many researchers.
-A lot of IT enterprises researching AI are studying what to do with AI and what would be a potential problem if the level of AI almost reaches the level of human intelligence.
-Well, in my opinion, the AI would be developed to the similar level of our intelligence. So that it would judge and generate codes or products required by itself.
-And it would be a critical risk for the human beings if unproperly used. For instance, it could control weapons or hack into itself to disturb the systems implemented by human beings.
-To control them, fundamentally, the developers should have a strong ethical awareness. It would be required for them to develop a control code in order to prevent such abuse of technologies so that our safety would be guaranteed.
-Therefore, later, I think it is very important to promptly build ethical guidelines to lead the direction of development so that we can develop AIs that only give us benefits without any harm on human beings.
+In this class, we are going to discuss about the concept of copyright and its understanding. We are living in the era of one-person media. Anyone can upload writings, photos, and video clips on SNS. From the aspect, any of us can be a copyright holder. Today, we are to discuss about the copyright.
+Before we begin, have you ever thought of this? An issue whether an idea can be copyrighted.
+If someone took my idea and created a work, can I say 'It is my work as well. I do own a copyright'? Think about the issue while taking today's class.
+At the top of all, let's see the concept of copyright and its types. A copyright is an exclusive right that is assigned to the author of a work by the law.
+A copyright of something becomes effective from the point of its creation. It is non-formality that does not require any format, a prerequisite, or a registering process. Automatically a copyright is assigned.
+A work refers to a creation that expressed thoughts or emotions. The work includes literary works, art works, photos, musics, and videos.
+The literary work includes novels, poems, and articles. And there is a diagrammatic work that includes maps, charts, and blueprints.
+There are play works, art works, and architectural works. You might have been using photographic works a lot. There are photographic, cinematographic, and musical works.
+And there are computer programing works that we all know well. In addition, there are derivative works that generates a new work from the original work. And there are compilation works that combines different materials, edits, and arranges.
+An author of a work refers to the person who created the work. To the author, a moral right and an author's property right are assigned.
+The requirements for establishment of a work is that the work expressed a human, the author's thoughts or emotions. For the requirements, there is a dichotomy of idea expression. That means a work must have a creativity and an externality.
+Earlier I asked 'whether an idea can be copyrighted?' but an idea is not something expressed with an externality. That is the dichotomy of idea expression that a work must be something externally expressed.
+It is a work that externally expressed a certain thought with a creativity. And it is the copyright that is assigned on the person who created the work.
+In addition, you should have heard of an intellectual property right. What is a copyright and what is an intellectual property right? You must get confused a lot. You'd better have an understanding about what an intellectual property is.
+I once said an author holds a moral right and an author's property right. Being differed by the author's property right, an intellectual property right refers to a property right in a broader view that includes the author's property right. The intellectual property right, as a term that includes the author's property right, refers to the author's property right + an industrial property right.
+Then, what would be an industrial property right? It refers to the rights that are relevant to the all products that you can see in the industries. As a generic term that includes the patents, utility model rights, trademark rights, and design rights. Including the rights on different products or works, they are called as industrial property rights.
+To summarize, an intellectual property right refers to all property rights generated by intellectual activities. It can be divided into an industrial property right that has a purpose of industrial development and a copyright that has a purpose of cultural development.
+Now we are discussing about copyrights. In the era of one-person media, any content you upload generates a copyright. However, if you introduce a product as an industrial material, an industrial property right is generated.
+At the same time, you may have heard of 'Jijeokjaesangwon'. It is an old term for the intellectual property right. The term of intellectual property right 'Jisikjaesangwon' is legally in use today.
+Let me give you an example of a copyright and it of an intellectual property right. One day, a student from the College of Arts in Seoul Women's University visited me with a notebook.
+Once I taught a lecture on creativity and the student brought a notebook saying my lecture inspired her. It was a notebook that she designed during a vacation. She gave it to me as a gift so that I accepted it with a pleasure.
+The thing is she told me a story that she had posted some pages of the designed notebook on her SNS and she found a design company, a very famous one, was pirating her design.
+I couldn't stand the situation so that I let her know her copyright was infringed. And she promptly took an action against the infringement with a participation of professors, a lawyer, and the school.
+After that, she registered her design and also proceeded a business registration so that she eventually became a CEO.
+As a result, the student began to produce and sell the notebook. It was a case that a copyright became an intellectual property right.
+Then, is the all of works copyrighted? It is not true. There are works that are not copyrighted.
+For the works not protected by copyrights are the Constitution, the laws, treaties, orders, ordinances, regulations, notifications from a nation or a local government, notices, disciplines, and the court's rulings. Also, personnel appointments, obituaries or news reports that simply delivers a fact, cannot be copyrighted.
+Thinking of the Constitution or a precedent, it is a public work opened to the all people. As such cannot be copyrighted, you can write a book with the Constitution or an article with a precedent.
+So far we have discussed about a concept of copyright. Can you now distinguish a copyright and an intellectual property right? In the next class, we are going to discuss about the types of copyright in detail.
+In the last class, we discussed about the concepts of copyright. In this class, we are going to discuss about the types of copyrights.
+A copyright is more complicated than we think. A single copyright includes a moral right, an author's property right, and a neighboring copyright. Let's take a look on what they are.
+First of all, a moral right is a character and psychological rights that an author has for own work.
+The moral right is divided into three: a right of publication, a right of paternity, and a right of integrity.
+Firstly, a right of publication, as a part of an author's character, refers to a right that the author can decide the publication of own work.
+For instance, if an author draw a webcomic, it is a right that the author can publish it when the author wants to.
+Secondly, a right of paternity is a right to tag the author's name. It is that shows the author by tagging the author's pen name or real name.
+Thirdly, a right of integrity is a right to retain an identity of the contents, format, and title of a work.
+As the contents what its author wrote, as the format what its author made, and as the title what its author chose, the identity should be retained. That is the right of integrity.
+A user, in principle, should not change any of its content or format. Without a permission from its author, any of these rights of publication, paternity, or integrity must be protected.
+There is a say that a moral right has non monetary and personal nature. The non monetary nature refers that the moral of an author is not a tradable property interest. That is, a non monetary nature is something above money.
+The other nature of a moral right is personnel. The personnel nature refers that it is a right that wholly belongs to the author so that the right is non-transferable.
+For a copyright, there is an author's property right as well. The author's property right is even more complicated. It is a property right that an author holds for the use of a work.
+In other words, the author's property right is a right tradable. Being differed from the moral right, it is a property right and transferable.
+In the author's property right, there are rights of reproduction, public transmission, distribution, rental, performance, exhibition, and adaptation.
+To see each of them, a right of reproduction is the right regarding its printing, shooting, duplication, and recording.
+Generally, we copy and use a digital data through the Internet. The right arose at the moment is the right of reproduction.
+If you copy a webcomic and uploaded on somewhere, it is an infringement of the right of reproduction.
+There is a right of public transmission. A public transmission as a part of property right refers to the action of transferring a work by wire or wirelessly, transmitting, or providing a work to someone else.
+Simply saying, a public transmission is transmitting something by wire or wirelessly to someone using a smart device or other device that has an Internet connection. If you transmitted something that you shouldn't have, it is an infringement of the right of public transmission.
+I previously said it is an infringement of the right of reproduction. At the same time, there occurs an infringement of public transmission. It is because you transmitted it to someone else.
+In the author's property right, there is a right of distribution as well. A right of distribution is to transfer or to rent a work with or without a cost.
+Through an SNS, if a work is sent to other or posted on a board so that people can download it, it is an infringement of the right of distribution.
+And there is a right of rental. It seems to be similar to the right of distribution but the rental is for-profit.
+You must have watched many performances. Stagings, recitals, singings, speeches, and so on. The right occurred while doing such is the right of performance.
+Au author of a work has a right to perform the work. And there is a right of exhibition for arts, photos, and architectural works.
+And there is a right of adaptation. It is a right to create a new work by translating, arranging, modifying, and adapting its original work.
+For the third type of a copyright, there is something called a neighboring copyright. I have already introduced the moral right and the author's property right that are assigned to an author.
+There is a neighboring copyright that is assigned to the people next to the author, to the people who somehow cooperate with the author.
+For the neighboring copyright, the rights for a performer, a record producer, or a producer. A performer refers to a person who actually performs it that is, a person who actually expresses a work by playing or singing.
+To record, to film, or to photograph is what a performer do. A right assigned to the performer is one of neighboring copyright.
+Also there is a right for a record producer. A right to reproduce and distribute a record.
+To broadcasters, a neighboring copyright is also assigned. The right to record, to film, to reproduce as a photo, or to broadcast is the right assigned to its broadcasters.
+Likewise, a copyright is complicatedly composed. The copyright is divided into a moral right and a property right for its author, and a neighboring right for people neighboring. And each of the three are divided into rights in detail.
+Let me give you another example here. Despite of my age, I am a fan of BTS.
+Let's say you watched a video clip of a music of BTS, enjoyed enough so that you filmed yourself choreographing imitating the clip and posted it online.
+Then, is it an infringement of a copyright or not? To explain a bit more, you filmed it while watching a TV show on your screen but the TV show itself is not directly recorded on your clip. It is a case only the music is recorded on your clip that filmed yourself imitating the choreography. And you posted it online.
+Is it an infringement? You may think 'Why is it so? It is just a video clip of myself dancing.'
+When you remind yourself what we have been discussing so far, there is a serious infringement. It is the music being recorded.
+If the music is posted online being recorded and if you had a number of viewers, it is an infringement of the right of distribution and public transmission. Moreover, it is an infringement of the rights regarding its broadcasters.
+If you do not know how to handle it properly, you could be sued. And you might encounter a difficulty. That is a possible conflict regarding copyrights.
+Let's take a look on a case even more complicated. It is an actual case from the copyright precedents. While I read this for you, please think about what was a problem and its result.
+For sure, there are a plaintiff and a defendant. The plaintiff and defendant raised an issue of a music CD. The plaintiff was a group that had a permission for copyright trust management business by the copyright law. The defendant was a coffee franchise that world-widely has its branches.
+The head office of the defendant, that is, the head office of the coffee franchise, in order to provide a background music service in shop, had a service providing contract with a company that had a permission of reproduction and distribution of the issued music from the US copyright holder.
+A CD or an exclusive album, that is made in accordance with the contract, was provided and domestic branches were playing the music.
+The exclusive album was playable only on a specific player, and it was made in a format that is unable to play when its contract expires. In addition, the contract was was to discard or return the CD after its expiration.
+The thing was the exclusive album included a music that its right of performance had been in trust by the plaintiff domestically.
+The plaintiff sued the defendant saying that playing the music using the exclusive album was a performance without his permission which was an infringement of a copyright. The plaintiff asked a ban of playing the music. That is, it was an issue because the contents without his permission was played in-country.
+The issue was whether the action of playing the exclusive album was a case that performed an album for sale without a consideration from its audiences, which is a reason of restriction for the author's property right. That regards of Article 29(2) of the Copyright Act.
+It is because playing an album for sale without any consideration being provided is not an infringement of its copyright.
+That is, the issue of the case was whether the exclusive album was a type of an album for sale, and if it was, whether the main content of the performance was listening to the music.
+On the first trial, the decision was it was not an infringement saying 'the main business of the defendant is to sell coffees and cakes in order to gain profit rather than to play a music and to listen to it. Therefore, he played the music without a purpose of taking profit from it. It can be a part of his business but not a main content.'
+Was the case end here? The appeal resulted a decision totally different. The appeal court, in opposite, ruled that the defendant infringed the right of performance of the plaintiff.
+There were reasons. Although the defendant states he had a permission to perform the music in South Korea from each of the author's property right holders, but the court ruled that 'Although the defendant was permitted to reproduce and distribute the work, it is not enough to admit as a permission to perform in South Korea. There is no evidence to admit it.'
+As a result, the appeal court agreed with the plaintiff who stated the music should not be played and the defendant playing the issued CD infringed the right of performance of the plaintiff.
+As the defendant had never received a permission to perform the musical work, performing it at a shop or any place of business is an infringement despite of its format. Likewise, the copyright holds complicate issues.
+What would be the term of protection for copyright? The author's property right and neighboring copyright is protected for the author's lifetime and 70 years after death. If there is a co-author, it is protected for 70 years after death of the last co-worker.
+For the 70 years of protection, there is something missing, right? The term of protection for the moral right. Why is the term not determined?
+In fact, the moral right regarding the author's honor, psychological right, and personality, has no specified term for protection. Even after the author's death, the family of the deceased can ask a protection for the moral right if a defamation for the author is observed.
+Si far, we have discussed about the types of works and copyrights. In next class, we will discuss about the infringement and protection of copyrights.
