@@ -1,101 +1,2779 @@
-이번 시간에는 저작권의 침해와 대응에 대해서 알아보도록 하겠습니다. 저작권 침해를 예방하려면 어떻게 하면 되는지 그리고 저작권 침해가 나왔을 때는 어떻게 대응하면 되는지에 대해서 살펴보도록 하겠습니다.
-여러분께서는 정품 소프트웨어를 사용하고 계신가요? 이 질문 자체는 저에게도 참 어려운 문제입니다. 더 많은 말씀을 드리지 않겠는데요. 다시 말하면 저작권, 지식재산권을 우리 모두가 다 지키고 있는 것인가? 이 문제에 대해서 우리는 항상 봉착하게 됩니다.
-무심코 사용한 사진, 글꼴, 프로그램 등에 대해서 저작권 침해는 없었는지 생각해보는 그런 강의가 되었으면 좋겠습니다.
-또 여러분, 포털 사이트를 이용해서 사진이나 글꼴을 무료라고 생각하고 다운로드 받으시는 경우가 많으실 텐데요. 생각보다 무료가 아닌 저작권이 있는 경우가 참으로 많이 있습니다. 그런 것들을 방지하려면 어떻게 하면 되는지 이번 강의를 통해서 알아보시기 바랍니다.
-먼저 저작권 침해 유형에는 어떤 유형들이 있는지 살펴보도록 하겠습니다. 이전 시간에 강의했던 내용 중에서 보호받지 못하는 저작물 기억하고 계신가요?
-헌법이나 법률 그리고 판결, 국가나 지방자치단체의 고시, 공고, 훈련 등은 보호받지 못하는 저작물로 지정되어 있습니다. 누구라도 사용할 수 있는 것이죠.
-또 신문기사 중에서도 논평이나 신문기사, 어떤 기자의 창작물로 만들어진 신문기사가 아닌 인사동정이나 부고 등의 간단한 신문기사는 저작물로 보호받지 못하고 있다는 것을 말씀드렸습니다.
-그렇다면 저작권 침해에는 어떤 것들이 있을까요? 당연히 저작권 안에 속해 있는 여러 권리들을 침해하는 것들입니다.
-저작권 세 가지 구성 기억나시나요? 저작인격권 그리고 저작재산권, 저작인접권. 이렇게 세 가지로 저작권이 구성되어 있었습니다.
-저작인격권의 침해란, 저작인격권 안에 있는 공표권 그리고 성명표시권, 동일성유지권을 침해한 경우들을 말합니다.
-저작자가 공표 여부를 결정할 수 있는 공표권, 그것을 어기고 타인에 의해서 다른 사람이 먼저 공표를 해버렸다면 공표권이 침해된 상황이 되는 것이죠.
-또 저작자의 이름이나 필명 등을 어기고 다른 이름을 표시하게 된다면 성명표시권을 침해한 경우가 됩니다.
-저작자가 자신의 저작물의 내용이나 형식, 제호 등에 대해서 동일성을 유지해달라고 할 권리가 있는데요. 그것을 어기고 다른 내용이나 형식, 다른 제호로 발표해버리면 그 또한 동일성유지권을 침해한 경우가 됩니다. 저작인격권의 침해는 저작자의 인격, 명예를 훼손하는 침해가 되겠습니다.
-또 이 저작인격권은 사후에도 이어지는 것이기 때문에 공표권이나 성명표시권, 동일성유지권을 어긴 것들은 사후 70년에 존속되지 않고 그 이후까지도 침해로 남을 수 있다는 사실을 꼭 기억하시기 바랍니다.
-저작재산권의 침해는 저작재산권 안에 있는 복제권, 공연권, 공중송신권, 전시권, 배포권, 2차적 저작물 작성권, 대여권. 이 모든 것들 중에서 그 어떤 것이라도 침해하면 저작재산권이 침해가 되겠습니다.
-우리들은 특히 인터넷을 통해서 나도 모르게 이 권리들을 침해하는 경우들이 있습니다. 따라서 인터넷 사용 시에 이런 것들이 어겨지지 않도록 조심해야 되겠죠.
-이런 기사가 있었습니다. ‘무심코 쓴 컴퓨터 글자체 폰트 198만 원 내고 쓰세요.’ 이게 무엇일까요?
-어떤 웹디자이너가 무료인 줄 알고 폰트를 사용했는데 알고 보니까 유료였다는 것입니다. 뿐만 아니라 개인에게 무료라고 생각해서 다운로드받아 썼는데 그것으로 업무용에 사용되는 어떤 작품을 만들어낸 것입니다. 그런데 그것이 다 유료였다는 결론이 난 것입니다.
-또 여러분, 번들폰트라는 것을 아시나요? 번들폰트라는 것은 예를 들어서 한글 프로그램을 설치할 때 한글과 관련돼서 무료로 설치되는 글꼴을 번들폰트라고 합니다.
-그런데 이 번들폰트가 나의 OS, 운영체제에 저절로 설치되다 보니까 자유롭게 써도 된다고 생각하는 경우들이 많이 있는데요. 번들폰트를 해당하는 소프트웨어가 아닌 다른 소프트웨어, 다른 프로그램에서 사용하면 그것 또한 침해가 될 수 있습니다.
-예를 들어서 한글에서 사용된, 한글에 설치된 글꼴을 포토샵이나 다른 프로그램에서 그 글꼴을 이용했다면, 그 또한 무료가 아닌 상태에서 쓴 문제가 될 수 있다는 것입니다. 이러한 점들을 조심해서 사용하셔야 되겠습니다.
-앞에서 본 이 예제, ‘198만 원 내고 쓰세요.’ 이런 예시들이 우리 안에 이미 있는 문제들이고, 우리 또한 무료라고 생각해서 글자를 사용했지만 그것이 어떤 단체나 영업용으로 사용됐다면 유료로 전환된다는 사실을 반드시 기억하여야 되겠습니다.
-저작인접권의 침해가 있습니다. 저작인접권의 침해는 실연자, 음반 제작자, 방송사업자 등의 권리가 침해당한 것을 말합니다.
-실연자란 어떤 것을 표현해내는 사람, 실연하는 사람이라고 말씀드렸는데요. 녹음하고 녹화하거나 사진으로 촬영하는 권리를 가진 사람들이 바로 실연자입니다.
-이 사람들의 권리를 어기게 된다면 그 부분에서 침해가 발생하게 되는 것이고요. 또 음반을 복제하고 배포할 권리를 가지는 음반 제작자의 침해도 많이 일어나고 있는 것을 알 수 있습니다.
-방송사업자의 권리들이 있는데요. 방송을 하고 방송에 대해서 녹음녹화 하는 권리들인데, 그 부분에서도 현재 인터넷상에서 많이 침해가 이루어지고 있습니다.
-법이 특별히 허용하는 경우를 제외하고는 저작인접자의 허락 없이 실연이나 음반 및 방송을 무단으로 이용하는 것은 다 침해에 해당된다고 볼 수 있겠습니다.
-우리 일상에서 볼 수 있는 저작권 침해행위들은 배포 목적으로 어떤 저작권이 있는 저작물을 소지만 하고 있다. 그것도 바로 저작권 침해에 해당됩니다.
-또 저작권 프로그램 복제물을 이용하는 것, 그것이 저작권이 있는지 몰랐다고 하더라도 이미 저작권이 있는 복제물인데 그것을 사용했다면 그것도 침해에 해당될 수 있습니다. 또 저작자를 명예훼손 했다. 그것은 저작인격권을 어기는 침해행위가 되겠습니다.
-저작재산권이 있지만 그 저작재산권을 제한하는 경우도 있습니다. 즉, 권리가 분명히 있지만 그 권리에 대해서 이 정도 범위 내에서는 사용할 수 있도록 해준다는 것입니다.
-저작권의 권리를 제한시킴으로써 문제가 생기지 않게 방지하는 것을 말합니다. 예를 들어서 재판 절차 등에서 복제하는 경우. 반드시 필요한 자료가 되기 때문에 이런 경우에는 저작재산권에 대해서 제한하게 됩니다.
-저작재산권은 재산이 될 수 있는 권리지만, 재판이나 절차 등에서 사용되면 그것에 대해서는 저작재산권에 대해서 따로 묻지 않게 되는 것입니다.
-또 정치적 연설에서의 이용 그리고 학교 교육 목적 등에서의 이용은 저작재산권이 제한됩니다. 시사보도를 위해서 사용될 때도 저작재산권이 제한되는 경우들이 있습니다.
-영리를 목적으로 하지 않는 공연이나 방송 등에서의 저작물 사용은 저작재산권이 제한되고 있습니다.
-특별히 컴퓨터 프로그램 저작물의 저작재산권을 제한하는 경우들을 살펴보면, 역시 재판이나 수사를 위해서 복제하는 경우, 교육기관에서 수업 과정에서 복제하고 배포하는 경우, 학교 교육을 위해서 교과용 도서에 게재하기 위해 복제하는 경우 그리고 한정된 장소에서 개인적인 목적으로 복제하는 경우에는 이 컴퓨터 프로그램 저작물에 대해서 저작재산권을 제한하고 있습니다.
-또 학교의 입학시험 등에 검정을 목적으로 배포하는 경우에도 컴퓨터 프로그램 저작물의 저작재산권이 제한됩니다.
-프로그램의 기초를 이루는 아이디어나 원리를 확인하기 위해서 프로그램 기능을 조사·연구·시험할 목적으로 복제할 때도 저작재산권이 제한됩니다.
-그렇다면 저작권 침해를 예방하기 위한 방법들은 어떤 것이 있을까요? 우선 기술적인 보호조치가 있습니다.
-기술적인 보호조치는 저작권법 제2조에서 지정하고 있는데요. 저작물에 대해서 접근제한 및 복제, 법에 따라서 보호되는 권리의 침해행위 등을 효과적으로 방지하고 억제하기 위해서 그 권리자나 권리자의 동의를 받은 자가 적용하는 기술적인 조치들을 말합니다. 크게 이용통제와 접근통제가 있습니다.
-이용통제라는 것은 저작물을 복제, 방송, 배포하는 행위들을 통제하는 것을 말하고요. 접근 통제는 저작물에 대한 접근 자체를 통제하는 경우들을 말합니다.
-두 번째로 저작권 보호 기술들이 있는데요. 다양한 보호 기술들이 있습니다. DRM이라고 불리는 저작권 콘텐츠 암호화가 있고요. 복제방지기술(CCI)이 있고요. 디지털 워터마킹, 포렌식 마킹 그리고 콘텐츠 필터링 기술 등이 있습니다.
-이 중에서 디지털 워터마킹과 포렌식 마킹을 살펴보면, 이 두 가지 기술은 콘텐츠에 비가시적인 데이터를 삽입함으로써 그 데이터의 저작권을 표시하는 방법입니다.
-우리가 컴퓨터에서 오가는, 서로 전송을 주고받는 파일들은 다 디지털 데이터로 되어 있고 내부적으로는 이진수로 되어 있는데요. 이 이진수의 영역에 보이지 않는 이진수 코드를 넣는 것입니다.
-우리 눈에는 가시적으로 그 내용이 보이지는 않지만, 분명히 그 파일 안에 저작권 표시 코드가 들어가는 것입니다.
-예를 들어서 내가 찍은 사진, 영상 등에, 그런 콘텐츠에 이진수 코드로 저작권을 심어놓는 것이죠. 그렇다면 이 저작권 코드는 어떠한 검출기 소프트웨어를 돌림으로써 찾아낼 수가 있습니다.
-먼저 디지털 워터마킹이라는 것은 자주 사용하는 기술인데요. 콘텐츠에 사람이 인지할 수 없는 저작권 정보를 삽입하고 검출기를 통해 삽입 정보를 식별해내는 기술입니다.
-이것보다 조금 더 발전된, 조금 더 복잡한 기술이 포렌식 마킹이라는 것입니다. 보통 ‘포렌식’ 하면 범죄수사에 사용되는 용어인데요.
-포렌식 마킹이라는 것은 콘텐츠가 재생되는 시점에 워터마킹 기술을 이용해서 콘텐츠의 사용자 정보를 삽입하고 불법 복제자를 찾아내는 기술입니다.
-놀라운 것은 포렌식 마킹을 이용하면 해당 영상이 언제 재생됐는지, 언제 어떻게 복제됐는지 모두 다 찾아낼 수 있다는 점입니다.
-이러한 기술들을 통해서 디지털 데이터 콘텐츠의 비가시적인 저작권에 관련된 정보들을 삽입함으로써 이것이 저작권이 있는지 없는지 검출하고 확인할 수 있게 됩니다.
-저작권법상에 저작권 보호 제도가 있습니다. 먼저 저작권 등록제도가 있는데요. 이 저작권 등록제도는 권리구제의 효율성을 확보하기 위한 것이라고 알려져 있습니다. 한국저작권위원회가 저작권 등록 업무를 수행하고 있습니다.
-앞에서 제작권에 대해 말씀드리면서 저작권은 무방식주의로 어떠한 행위를 하지 않아도 자동적으로 발생한다고 말씀드렸는데요. 저작권 등록제도는 좀 더 적극적으로 ‘이 저작물은 나의 것이에요.’라고 확인을 받는 절차를 말합니다.
-저작물을 저작권위원회를 통해 등록해놓음으로써 나중에 저작권 침해가 되었을 때 그것에 대해서 이 저작물이 내 것이라는 것을 소명할 수 있는 더 확실한 계기가 열리게 되는 것이죠.
-저작권 침해 시에 온라인 서비스 제공자에게 그 책임에 대해서 물을 수 있는 권리들이 있는데요. 저작권자는 게시판에 올라온 글로 인해서 자신의 저작권이 침해되었다는 사실을 소명해서 저작권 서비스 제공자에게 그 저작물들에 대해서 복제, 전송을 중단시킬 것을 요구할 수 있습니다.
-또 저작권 침해가 발생한 경우에 대응하기 위한 방법들이 있는데요. 저작권법상에 분쟁조정 및 권리침해 구제제도가 있습니다.
-이것은 저작권 침해를 당했다고 주장하는 바와 저작물을 사용하는 측, 이 양쪽을 화해시키려는 목적이 더 강한데요.
-분쟁조정이라는 것은 저작권법 제8장에 나와 있습니다. 한국저작권위원회가 조정부를 설치해서 분쟁을 조정해주는 절차를 갖는 것을 말합니다.
-또 권리침해에 대한 구제가 저작권법 9장에 나와 있습니다. 침해의 정지, 명예회복 등의 청구를 등을 할 수 있고요. 공동 저작물의 권리침해나 손해배상 등을 청구할 수 있는 제도가 바로 권리침해에 대한 구제가 되겠습니다.
-분쟁조정이라는 것은 저작권 심의조정제도로서 행정적인 제도입니다. 한국저작권위원회의 조정부를 통해서 이루어지는데, 다음과 같은 순서를 거치게 됩니다.
-먼저 첫 번째 단계로 한국저작권위원회에 신청서를 제출하게 됩니다. 조정안을 작성하고 접수시키면 이 사건의 내용이 조정부로 사건회부가 됩니다.
-회부가 되고 나면 조정부에서 조정안을 작성해서 당사자에게 제시하게 됩니다. 그 이후에 조정이 불성립되거나 또는 성립되는 효력이 발생하게 됩니다.
-권리침해에 대한 구제는 민사상의 구제제도와 형사상의 구제제도가 있습니다. 민사상의 구제제도는 침해행위의 정지 청구권, 손해배상 청구권, 명예회복 청구 등에 대한 것을 말합니다.
-형사상 구제제도는 권리침해죄, 부정발행 등의 죄, 출처 명시 위반 등의 죄에 대해서 벌칙 조항과 관련한 것을 말합니다.
-여기까지 저작권 침해에 대한 예방 및 대응에 대해서 살펴보았습니다. 다음 시간에는 저작권 침해 사례를 살펴보도록 하겠습니다.
-In this class, we are going to have a simple quiz on the infringement of copyright. I am going to ask a question on you to think about whether that is an infringement or not.
-Would it be an infringement or not? I used a work that you do not know its author. Later, I found out there was a copyright holder. I used a source because it was by an unknown author but later you recognized there was a copyright holder. Did I infringed or not?
-The answer is infringement. Even though you recognized it later, as the author has a copyright, it is an infringement.
-Here is the second question. I posted a review of a movie with captured images of the movie. Is it an infringement or not? For sure the point is that I took screenshots of the movie. Is it allowed or not?
-The answer is it is not an infringement. If you captured some parts of a movie and posted it with a review that is your own creation, it is not an infringement.
-Let’s move on to a question on music CD. I bought a music CD and encoded it as a digital file, am mp3 file for instance, and stored it on my smart phone. Buying a CD was okay. But if I encoded it as a digital file and saved it on my smart phone, is it an infringement or not?
-It is not an infringement. If I transformed it for an individual use, it is not an infringement. If you have the encoded file on your smart phone only, it does not matter.
-But this time, let’s say I encoded the music CD as a digital file and shared on the office Intranet. Is it an infringement? It is indeed.
-The next question is regarding a newspaper article. I scraped an article and posted it on a web site with a mention of its source. That is, I dragged, copied and pasted the content or a newspaper article with a clear mention of its source. Is it an infringement or not?
-You may miss a lot here. It is an infringement because a newspaper article is a creation of a reporter. Although you mentioned its source, to copy and transmit the content is a violation for the prohibition of unallowed publication and duplication.
-How would I not violate such point? If I only expose the title of an article and provide a link redirecting to the newspaper site, it is not an infringement.
-For the next question, try to find of which right is violated. In particular, among the author’s property rights, which right is infringed?
-Here is a case. A who recorded B’s lecture shared the recorded CD with his friends. Which rights are violated here? There are two, the right of duplication and the right of distribution.
-For this question, which right is violated? A movie producer A made a movie based on a webcomic by B without B’s agreement. What did A infringed?
-It is an infringement of the right of adaptation. For B’s webcomic, it should be adapted to a movie only with B’s permission.
-Next question. C bought a music CD and rented it to someone else taking money for the rental. C rented a CD that C possessed and received money. What did C violated? The right of rental.
-Next question, D extracted a sound source from a video clip on YouTube and shared it with friends through SNS. Which right did D violated?
-There are a lot of music videos on YouTube. D only extracted a sound source and shared it through SNS.
-It is an infringement of duplication and public transmission. To extract a sound source for an individual use is not a matter but as D shared it through SNS it becomes an infringement of duplication and an infringement of public transmission as it was sent wired or wirelessly.
-We have looked the cases of infringement through quizzes. Then, what would be a proper use of a work?
-Firstly, there are cases that the use of a work is allowed online without the permission from its copyright holder. For instance, a case that you capture a scene of a movie and upload it with a review under the purpose of criticism. It was case we saw earlier, right?
-Or, as mentioned earlier, in case you only expose the title of an article only and provide a link redirecting to the newspaper site, a work is usable without any permission.
-On a blog, recently, there are many works with a CCL mark attached. In the range of the CCL mark, using the work does not require any additional permission of the copyright holder.
-If you buy a background music for blog or cafe, and use under the purpose appointed, you can use it without an additional permission.
-And there are free source sites. There are works allowed to use to a certain range. You can use the works on the pages without a permission.
-And there is Korea Open Government License site provided by South Korean government. Using the works from the site is also available without a permission from the copyright holder.
-Do you all know the usage of a CCL mark? For a CCL mark, there are marks of different use. CCL is a system that allows other to use one’s work. By combining these marks, the work is usable for its users under the appointed purpose.
-Let’s take a look on some of them. There is a pictogram that has a person in it. It is a mark saying ‘please mark the author.’
-If you see a man-shaped CCL mark on a blog, it says to use it with marking who the author is. It is usable only if you mark the name of author and its source.
-The second mark has a diagonal line on a dollar mark. It is a mark saying only allowed for a non-profit use. That is, additional contract is required to use it for a profit.
-The third mark has an equal sign meaning the same. It means not to change. In other words, the work is usable without its transformation. That is, no adaptation is allowed.
-At last, there is a mark with an arrow turning counterclockwise. It is a consent for chance under the same condition. If the same license is applied, it is usable. That is, an adaptation of the work is allowed if the same CCL condition is applied on it.
-Let’s discuss about the stages of proper use of a work. To use a work properly, first of all, you decide which work to use.
-There are many types of works. Among them, decide what to use and where to get.
-Secondly, you must have a process that verifies whether the work is protected. Then, thirdly, you check whether the way you use the work is allowed by the Copyright Act.
-Fourthly, you let the author know the title and intended use of the work and get a permission. The last is that you use it in the range you are allowed.
-In this class, we have been discussed about the infringement of copyright, its prevention, action regarding it, lots of exemplary cases, and proper usage. I hope you to understand how you can use a work in accordance with the Copyright Act and to use it properly.
+public class AddPartyView implements ActionListener, ListSelectionListener {
+
+	private int maxSize;
+
+	private JFrame win;
+	private JButton addPatron, newPatron, remPatron, finished;
+	private JList partyList, allBowlers;
+	private Vector party, bowlerdb;
+	private Integer lock;
+
+	private ControlDeskView controlDesk;
+
+	private String selectedNick, selectedMember;
+
+	public AddPartyView(ControlDeskView controlDesk, int max) {
+
+		this.controlDesk = controlDesk;
+		maxSize = max;
+
+		win = new JFrame("Add Party");
+		win.getContentPane().setLayout(new BorderLayout());
+		((JPanel) win.getContentPane()).setOpaque(false);
+
+		JPanel colPanel = new JPanel();
+		colPanel.setLayout(new GridLayout(1, 3));
+
+		// Party Panel
+		JPanel partyPanel = new JPanel();
+		partyPanel.setLayout(new FlowLayout());
+		partyPanel.setBorder(new TitledBorder("Your Party"));
+
+		party = new Vector();
+		Vector empty = new Vector();
+		empty.add("(Empty)");
+
+		partyList = new JList(empty);
+		partyList.setFixedCellWidth(120);
+		partyList.setVisibleRowCount(5);
+		partyList.addListSelectionListener(this);
+		JScrollPane partyPane = new JScrollPane(partyList);
+		//        partyPane.setVerticalScrollBarPolicy(JScrollPane.VERTICAL_SCROLLBAR_ALWAYS);
+		partyPanel.add(partyPane);
+
+		// Bowler Database
+		JPanel bowlerPanel = new JPanel();
+		bowlerPanel.setLayout(new FlowLayout());
+		bowlerPanel.setBorder(new TitledBorder("Bowler Database"));
+
+		try {
+			bowlerdb = new Vector(BowlerFile.getBowlers());
+		} catch (Exception e) {
+			System.err.println("File Error");
+			bowlerdb = new Vector();
+		}
+		allBowlers = new JList(bowlerdb);
+		allBowlers.setVisibleRowCount(8);
+		allBowlers.setFixedCellWidth(120);
+		JScrollPane bowlerPane = new JScrollPane(allBowlers);
+		bowlerPane.setVerticalScrollBarPolicy(
+			JScrollPane.VERTICAL_SCROLLBAR_ALWAYS);
+		allBowlers.addListSelectionListener(this);
+		bowlerPanel.add(bowlerPane);
+
+		// Button Panel
+		JPanel buttonPanel = new JPanel();
+		buttonPanel.setLayout(new GridLayout(4, 1));
+
+		Insets buttonMargin = new Insets(4, 4, 4, 4);
+
+		addPatron = new JButton("Add to Party");
+		JPanel addPatronPanel = new JPanel();
+		addPatronPanel.setLayout(new FlowLayout());
+		addPatron.addActionListener(this);
+		addPatronPanel.add(addPatron);
+
+		remPatron = new JButton("Remove Member");
+		JPanel remPatronPanel = new JPanel();
+		remPatronPanel.setLayout(new FlowLayout());
+		remPatron.addActionListener(this);
+		remPatronPanel.add(remPatron);
+
+		newPatron = new JButton("New Patron");
+		JPanel newPatronPanel = new JPanel();
+		newPatronPanel.setLayout(new FlowLayout());
+		newPatron.addActionListener(this);
+		newPatronPanel.add(newPatron);
+
+		finished = new JButton("Finished");
+		JPanel finishedPanel = new JPanel();
+		finishedPanel.setLayout(new FlowLayout());
+		finished.addActionListener(this);
+		finishedPanel.add(finished);
+
+		buttonPanel.add(addPatronPanel);
+		buttonPanel.add(remPatronPanel);
+		buttonPanel.add(newPatronPanel);
+		buttonPanel.add(finishedPanel);
+
+		// Clean up main panel
+		colPanel.add(partyPanel);
+		colPanel.add(bowlerPanel);
+		colPanel.add(buttonPanel);
+
+		win.getContentPane().add("Center", colPanel);
+
+		win.pack();
+
+		// Center Window on Screen
+		Dimension screenSize = (Toolkit.getDefaultToolkit()).getScreenSize();
+		win.setLocation(
+			((screenSize.width) / 2) - ((win.getSize().width) / 2),
+			((screenSize.height) / 2) - ((win.getSize().height) / 2));
+		win.show();
+
+	}
+
+	public void actionPerformed(ActionEvent e) {
+		if (e.getSource().equals(addPatron)) {
+			if (selectedNick != null && party.size() < maxSize) {
+				if (party.contains(selectedNick)) {
+					System.err.println("Member already in Party");
+				} else {
+					party.add(selectedNick);
+					partyList.setListData(party);
+				}
+			}
+		}
+		if (e.getSource().equals(remPatron)) {
+			if (selectedMember != null) {
+				party.removeElement(selectedMember);
+				partyList.setListData(party);
+			}
+		}
+		if (e.getSource().equals(newPatron)) {
+			NewPatronView newPatron = new NewPatronView( this );
+		}
+		if (e.getSource().equals(finished)) {
+			if ( party != null && party.size() > 0) {
+				controlDesk.updateAddParty( this );
+			}
+			win.hide();
+		}
+
+	}
+
+/**
+ * Handler for List actions
+ * @param e the ListActionEvent that triggered the handler
+ */
+
+	public void valueChanged(ListSelectionEvent e) {
+		if (e.getSource().equals(allBowlers)) {
+			selectedNick =
+				((String) ((JList) e.getSource()).getSelectedValue());
+		}
+		if (e.getSource().equals(partyList)) {
+			selectedMember =
+				((String) ((JList) e.getSource()).getSelectedValue());
+		}
+	}
+
+/**
+ * Accessor for Party
+ */
+
+	public Vector getNames() {
+		return party;
+	}
+
+/**
+ * Called by NewPatronView to notify AddPartyView to update
+ * 
+ * @param newPatron the NewPatronView that called this method
+ */
+
+	public void updateNewPatron(NewPatronView newPatron) {
+		try {
+			Bowler checkBowler = BowlerFile.getBowlerInfo( newPatron.getNick() );
+			if ( checkBowler == null ) {
+				BowlerFile.putBowlerInfo(
+					newPatron.getNick(),
+					newPatron.getFull(),
+					newPatron.getEmail());
+				bowlerdb = new Vector(BowlerFile.getBowlers());
+				allBowlers.setListData(bowlerdb);
+				party.add(newPatron.getNick());
+				partyList.setListData(party);
+			} else {
+				System.err.println( "A Bowler with that name already exists." );
+			}
+		} catch (Exception e2) {
+			System.err.println("File I/O Error");
+		}
+	}
+
+/**
+ * Accessor for Party
+ */
+
+	public Vector getParty() {
+		return party;
+	}
+
+}
+
+
+
+
+
+public class Alley {
+	public ControlDesk controldesk;
+
+    public Alley( int numLanes ) {
+        controldesk = new ControlDesk( numLanes );
+    }
+
+	public ControlDesk getControlDesk() {
+		return controldesk;
+	}
+	
+}
+
+
+
+
+
+public class Bowler {
+
+    private String fullName;
+    private String nickName;
+    private String email;
+
+    public Bowler( String nick, String full, String mail ) {
+	nickName = nick;
+	fullName = full;
+  	email = mail;
+    }
+
+
+    public String getNickName() {
+
+        return nickName;  
+
+    }
+
+	public String getFullName ( ) {
+			return fullName;
+	}
+	
+	public String getNick ( ) {
+		return nickName;
+	}
+
+	public String getEmail ( ) {
+		return email;	
+	}
+	
+	public boolean equals ( Bowler b) {
+		boolean retval = true;
+		if ( !(nickName.equals(b.getNickName())) ) {
+				retval = false;
+		}
+		if ( !(fullName.equals(b.getFullName())) ) {
+				retval = false;
+		}	
+		if ( !(email.equals(b.getEmail())) ) {
+				retval = false;
+		}
+		return retval;
+	}
+}
+
+
+
+
+
+class BowlerFile {
+
+	/** The location of the bowelr database */
+	private static String BOWLER_DAT = "BOWLERS.DAT";
+
+    /**
+     * Retrieves bowler information from the database and returns a Bowler objects with populated fields.
+     *
+     * @param nickName	the nickName of the bolwer to retrieve
+     *
+     * @return a Bowler object
+     * 
+     */
+
+	public static Bowler getBowlerInfo(String nickName)
+		throws IOException, FileNotFoundException {
+
+		BufferedReader in = new BufferedReader(new FileReader(BOWLER_DAT));
+		String data;
+		while ((data = in.readLine()) != null) {
+			// File format is nick\tfname\te-mail
+			String[] bowler = data.split("\t");
+			if (nickName.equals(bowler[0])) {
+				System.out.println(
+					"Nick: "
+						+ bowler[0]
+						+ " Full: "
+						+ bowler[1]
+						+ " email: "
+						+ bowler[2]);
+				return (new Bowler(bowler[0], bowler[1], bowler[2]));
+			}
+		}
+		System.out.println("Nick not found...");
+		return null;
+	}
+
+    /**
+     * Stores a Bowler in the database
+     *
+     * @param nickName	the NickName of the Bowler
+     * @param fullName	the FullName of the Bowler
+     * @param email	the E-mail Address of the Bowler
+     *
+     */
+
+	public static void putBowlerInfo(
+		String nickName,
+		String fullName,
+		String email)
+		throws IOException, FileNotFoundException {
+
+		String data = nickName + "\t" + fullName + "\t" + email + "\n";
+
+		RandomAccessFile out = new RandomAccessFile(BOWLER_DAT, "rw");
+		out.skipBytes((int) out.length());
+		out.writeBytes(data);
+		out.close();
+	}
+
+    /**
+     * Retrieves a list of nicknames in the bowler database
+     *
+     * @return a Vector of Strings
+     * 
+     */
+
+	public static Vector getBowlers()
+		throws IOException, FileNotFoundException {
+
+		Vector allBowlers = new Vector();
+
+		BufferedReader in = new BufferedReader(new FileReader(BOWLER_DAT));
+		String data;
+		while ((data = in.readLine()) != null) {
+			// File format is nick\tfname\te-mail
+			String[] bowler = data.split("\t");
+			//"Nick: bowler[0] Full: bowler[1] email: bowler[2]
+			allBowlers.add(bowler[0]);
+		}
+		return allBowlers;
+	}
+
+}
+
+
+
+
+
+class ControlDesk extends Thread {
+
+	/** The collection of Lanes */
+	private HashSet lanes;
+
+	/** The party wait queue */
+	private Queue partyQueue;
+
+	/** The number of lanes represented */
+	private int numLanes;
+	
+	/** The collection of subscribers */
+	private Vector subscribers;
+
+    /**
+     * Constructor for the ControlDesk class
+     *
+     * @param numlanes	the numbler of lanes to be represented
+     *
+     */
+
+	public ControlDesk(int numLanes) {
+		this.numLanes = numLanes;
+		lanes = new HashSet(numLanes);
+		partyQueue = new Queue();
+
+		subscribers = new Vector();
+
+		for (int i = 0; i < numLanes; i++) {
+			lanes.add(new Lane());
+		}
+		
+		this.start();
+
+	}
+	
+	/**
+	 * Main loop for ControlDesk's thread
+	 * 
+	 */
+	public void run() {
+		while (true) {
+			
+			assignLane();
+			
+			try {
+				sleep(250);
+			} catch (Exception e) {}
+		}
+	}
+		
+
+    /**
+     * Retrieves a matching Bowler from the bowler database.
+     *
+     * @param nickName	The NickName of the Bowler
+     *
+     * @return a Bowler object.
+     *
+     */
+
+	private Bowler registerPatron(String nickName) {
+		Bowler patron = null;
+
+		try {
+			// only one patron / nick.... no dupes, no checks
+
+			patron = BowlerFile.getBowlerInfo(nickName);
+
+		} catch (FileNotFoundException e) {
+			System.err.println("Error..." + e);
+		} catch (IOException e) {
+			System.err.println("Error..." + e);
+		}
+
+		return patron;
+	}
+
+    /**
+     * Iterate through the available lanes and assign the paties in the wait queue if lanes are available.
+     *
+     */
+
+	public void assignLane() {
+		Iterator it = lanes.iterator();
+
+		while (it.hasNext() && partyQueue.hasMoreElements()) {
+			Lane curLane = (Lane) it.next();
+
+			if (curLane.isPartyAssigned() == false) {
+				System.out.println("ok... assigning this party");
+				curLane.assignParty(((Party) partyQueue.next()));
+			}
+		}
+		publish(new ControlDeskEvent(getPartyQueue()));
+	}
+
+    /**
+     */
+
+	public void viewScores(Lane ln) {
+		// TODO: attach a LaneScoreView object to that lane
+	}
+
+    /**
+     * Creates a party from a Vector of nickNAmes and adds them to the wait queue.
+     *
+     * @param partyNicks	A Vector of NickNames
+     *
+     */
+
+	public void addPartyQueue(Vector partyNicks) {
+		Vector partyBowlers = new Vector();
+		for (int i = 0; i < partyNicks.size(); i++) {
+			Bowler newBowler = registerPatron(((String) partyNicks.get(i)));
+			partyBowlers.add(newBowler);
+		}
+		Party newParty = new Party(partyBowlers);
+		partyQueue.add(newParty);
+		publish(new ControlDeskEvent(getPartyQueue()));
+	}
+
+    /**
+     * Returns a Vector of party names to be displayed in the GUI representation of the wait queue.
+	 *
+     * @return a Vecotr of Strings
+     *
+     */
+
+	public Vector getPartyQueue() {
+		Vector displayPartyQueue = new Vector();
+		for ( int i=0; i < ( (Vector)partyQueue.asVector()).size(); i++ ) {
+			String nextParty =
+				((Bowler) ((Vector) ((Party) partyQueue.asVector().get( i ) ).getMembers())
+					.get(0))
+					.getNickName() + "'s Party";
+			displayPartyQueue.addElement(nextParty);
+		}
+		return displayPartyQueue;
+	}
+
+    /**
+     * Accessor for the number of lanes represented by the ControlDesk
+     * 
+     * @return an int containing the number of lanes represented
+     *
+     */
+
+	public int getNumLanes() {
+		return numLanes;
+	}
+
+    /**
+     * Allows objects to subscribe as observers
+     * 
+     * @param adding	the ControlDeskObserver that will be subscribed
+     *
+     */
+
+	public void subscribe(ControlDeskObserver adding) {
+		subscribers.add(adding);
+	}
+
+    /**
+     * Broadcast an event to subscribing objects.
+     * 
+     * @param event	the ControlDeskEvent to broadcast
+     *
+     */
+
+	public void publish(ControlDeskEvent event) {
+		Iterator eventIterator = subscribers.iterator();
+		while (eventIterator.hasNext()) {
+			(
+				(ControlDeskObserver) eventIterator
+					.next())
+					.receiveControlDeskEvent(
+				event);
+		}
+	}
+
+    /**
+     * Accessor method for lanes
+     * 
+     * @return a HashSet of Lanes
+     *
+     */
+
+	public HashSet getLanes() {
+		return lanes;
+	}
+}
+
+
+
+
+
+public class ControlDeskEvent {
+
+	/** A representation of the wait queue, containing party names */
+	private Vector partyQueue;
+
+    /**
+     * Contstructor for the ControlDeskEvent
+     *
+     * @param partyQueue	a Vector of Strings containing the names of the parties in the wait queue
+     *
+     */
+
+	public ControlDeskEvent( Vector partyQueue ) {
+		this.partyQueue = partyQueue;
+	}
+
+    /**
+     * Accessor for partyQueue
+     * @param key the key of the vertex being looked for.
+     *
+     * @return a Vector of Strings representing the names of the parties in the wait queue
+     *
+     */
+
+	public Vector getPartyQueue() {
+		return partyQueue;
+	}
+
+}
+
+
+
+
+public interface ControlDeskObserver {
+
+	public void receiveControlDeskEvent(ControlDeskEvent ce);
+
+}
+
+
+public class ControlDeskView implements ActionListener, ControlDeskObserver {
+
+	private JButton addParty, finished, assign;
+	private JFrame win;
+	private JList partyList;
+	
+	/** The maximum  number of members in a party */
+	private int maxMembers;
+	
+	private ControlDesk controlDesk;
+
+	/**
+	 * Displays a GUI representation of the ControlDesk
+	 *
+	 */
+
+	public ControlDeskView(ControlDesk controlDesk, int maxMembers) {
+
+		this.controlDesk = controlDesk;
+		this.maxMembers = maxMembers;
+		int numLanes = controlDesk.getNumLanes();
+
+		win = new JFrame("Control Desk");
+		win.getContentPane().setLayout(new BorderLayout());
+		((JPanel) win.getContentPane()).setOpaque(false);
+
+		JPanel colPanel = new JPanel();
+		colPanel.setLayout(new BorderLayout());
+
+		// Controls Panel
+		JPanel controlsPanel = new JPanel();
+		controlsPanel.setLayout(new GridLayout(3, 1));
+		controlsPanel.setBorder(new TitledBorder("Controls"));
+
+		addParty = new JButton("Add Party");
+		JPanel addPartyPanel = new JPanel();
+		addPartyPanel.setLayout(new FlowLayout());
+		addParty.addActionListener(this);
+		addPartyPanel.add(addParty);
+		controlsPanel.add(addPartyPanel);
+
+		assign = new JButton("Assign Lanes");
+		JPanel assignPanel = new JPanel();
+		assignPanel.setLayout(new FlowLayout());
+		assign.addActionListener(this);
+		assignPanel.add(assign);
+//		controlsPanel.add(assignPanel);
+
+		finished = new JButton("Finished");
+		JPanel finishedPanel = new JPanel();
+		finishedPanel.setLayout(new FlowLayout());
+		finished.addActionListener(this);
+		finishedPanel.add(finished);
+		controlsPanel.add(finishedPanel);
+
+		// Lane Status Panel
+		JPanel laneStatusPanel = new JPanel();
+		laneStatusPanel.setLayout(new GridLayout(numLanes, 1));
+		laneStatusPanel.setBorder(new TitledBorder("Lane Status"));
+
+		HashSet lanes=controlDesk.getLanes();
+		Iterator it = lanes.iterator();
+		int laneCount=0;
+		while (it.hasNext()) {
+			Lane curLane = (Lane) it.next();
+			LaneStatusView laneStat = new LaneStatusView(curLane,(laneCount+1));
+			curLane.subscribe(laneStat);
+			((Pinsetter)curLane.getPinsetter()).subscribe(laneStat);
+			JPanel lanePanel = laneStat.showLane();
+			lanePanel.setBorder(new TitledBorder("Lane" + ++laneCount ));
+			laneStatusPanel.add(lanePanel);
+		}
+
+		// Party Queue Panel
+		JPanel partyPanel = new JPanel();
+		partyPanel.setLayout(new FlowLayout());
+		partyPanel.setBorder(new TitledBorder("Party Queue"));
+
+		Vector empty = new Vector();
+		empty.add("(Empty)");
+
+		partyList = new JList(empty);
+		partyList.setFixedCellWidth(120);
+		partyList.setVisibleRowCount(10);
+		JScrollPane partyPane = new JScrollPane(partyList);
+		partyPane.setVerticalScrollBarPolicy(
+			JScrollPane.VERTICAL_SCROLLBAR_ALWAYS);
+		partyPanel.add(partyPane);
+		//		partyPanel.add(partyList);
+
+		// Clean up main panel
+		colPanel.add(controlsPanel, "East");
+		colPanel.add(laneStatusPanel, "Center");
+		colPanel.add(partyPanel, "West");
+
+		win.getContentPane().add("Center", colPanel);
+
+		win.pack();
+
+		/* Close program when this window closes */
+		win.addWindowListener(new WindowAdapter() {
+			public void windowClosing(WindowEvent e) {
+				System.exit(0);
+			}
+		});
+
+		// Center Window on Screen
+		Dimension screenSize = (Toolkit.getDefaultToolkit()).getScreenSize();
+		win.setLocation(
+			((screenSize.width) / 2) - ((win.getSize().width) / 2),
+			((screenSize.height) / 2) - ((win.getSize().height) / 2));
+		win.show();
+
+	}
+
+	/**
+	 * Handler for actionEvents
+	 *
+	 * @param e	the ActionEvent that triggered the handler
+	 *
+	 */
+
+	public void actionPerformed(ActionEvent e) {
+		if (e.getSource().equals(addParty)) {
+			AddPartyView addPartyWin = new AddPartyView(this, maxMembers);
+		}
+		if (e.getSource().equals(assign)) {
+			controlDesk.assignLane();
+		}
+		if (e.getSource().equals(finished)) {
+			win.hide();
+			System.exit(0);
+		}
+	}
+
+	/**
+	 * Receive a new party from andPartyView.
+	 *
+	 * @param addPartyView	the AddPartyView that is providing a new party
+	 *
+	 */
+
+	public void updateAddParty(AddPartyView addPartyView) {
+		controlDesk.addPartyQueue(addPartyView.getParty());
+	}
+
+	/**
+	 * Receive a broadcast from a ControlDesk
+	 *
+	 * @param ce	the ControlDeskEvent that triggered the handler
+	 *
+	 */
+
+	public void receiveControlDeskEvent(ControlDeskEvent ce) {
+		partyList.setListData(((Vector) ce.getPartyQueue()));
+	}
+}
+
+
+
+
+public class drive {
+
+	public static void main(String[] args) {
+
+		int numLanes = 3;
+		int maxPatronsPerParty=5;
+
+		Alley a = new Alley( numLanes );
+		ControlDesk controlDesk = a.getControlDesk();
+
+		ControlDeskView cdv = new ControlDeskView( controlDesk, maxPatronsPerParty);
+		controlDesk.subscribe( cdv );
+
+	}
+}
+
+
+
+
+public class EndGamePrompt implements ActionListener {
+
+	private JFrame win;
+	private JButton yesButton, noButton;
+
+	private int result;
+
+	private String selectedNick, selectedMember;
+
+	public EndGamePrompt( String partyName ) {
+
+		result =0;
+		
+		win = new JFrame("Another Game for " + partyName + "?" );
+		win.getContentPane().setLayout(new BorderLayout());
+		((JPanel) win.getContentPane()).setOpaque(false);
+
+		JPanel colPanel = new JPanel();
+		colPanel.setLayout(new GridLayout( 2, 1 ));
+
+		// Label Panel
+		JPanel labelPanel = new JPanel();
+		labelPanel.setLayout(new FlowLayout());
+		
+		JLabel message = new JLabel( "Party " + partyName 
+			+ " has finished bowling.\nWould they like to bowl another game?" );
+
+		labelPanel.add( message );
+
+		// Button Panel
+		JPanel buttonPanel = new JPanel();
+		buttonPanel.setLayout(new GridLayout(1, 2));
+
+		Insets buttonMargin = new Insets(4, 4, 4, 4);
+
+		yesButton = new JButton("Yes");
+		JPanel yesButtonPanel = new JPanel();
+		yesButtonPanel.setLayout(new FlowLayout());
+		yesButton.addActionListener(this);
+		yesButtonPanel.add(yesButton);
+
+		noButton = new JButton("No");
+		JPanel noButtonPanel = new JPanel();
+		noButtonPanel.setLayout(new FlowLayout());
+		noButton.addActionListener(this);
+		noButtonPanel.add(noButton);
+
+		buttonPanel.add(yesButton);
+		buttonPanel.add(noButton);
+
+		// Clean up main panel
+		colPanel.add(labelPanel);
+		colPanel.add(buttonPanel);
+
+		win.getContentPane().add("Center", colPanel);
+
+		win.pack();
+
+		// Center Window on Screen
+		Dimension screenSize = (Toolkit.getDefaultToolkit()).getScreenSize();
+		win.setLocation(
+			((screenSize.width) / 2) - ((win.getSize().width) / 2),
+			((screenSize.height) / 2) - ((win.getSize().height) / 2));
+		win.show();
+
+	}
+
+	public void actionPerformed(ActionEvent e) {
+		if (e.getSource().equals(yesButton)) {		
+			result=1;
+		}
+		if (e.getSource().equals(noButton)) {		
+			result=2;
+		}
+
+	}
+
+	public int getResult() {
+		while ( result == 0 ) {
+			try {
+				Thread.sleep(10);
+			} catch ( InterruptedException e ) {
+				System.err.println( "Interrupted" );
+			}
+		}
+		return result;	
+	}
+	
+	public void distroy() {
+		win.hide();
+	}
+	
+}
+
+
+
+
+
+public class EndGameReport implements ActionListener, ListSelectionListener {
+
+	private JFrame win;
+	private JButton printButton, finished;
+	private JList memberList;
+	private Vector myVector;
+	private Vector retVal;
+
+	private int result;
+
+	private String selectedMember;
+
+	public EndGameReport( String partyName, Party party ) {
+	
+		result =0;
+		retVal = new Vector();
+		win = new JFrame("End Game Report for " + partyName + "?" );
+		win.getContentPane().setLayout(new BorderLayout());
+		((JPanel) win.getContentPane()).setOpaque(false);
+
+		JPanel colPanel = new JPanel();
+		colPanel.setLayout(new GridLayout( 1, 2 ));
+
+		// Member Panel
+		JPanel partyPanel = new JPanel();
+		partyPanel.setLayout(new FlowLayout());
+		partyPanel.setBorder(new TitledBorder("Party Members"));
+		
+		Vector myVector = new Vector();
+		Iterator iter = (party.getMembers()).iterator();
+		while (iter.hasNext()){
+			myVector.add( ((Bowler)iter.next()).getNick() );
+		}	
+		memberList = new JList(myVector);
+		memberList.setFixedCellWidth(120);
+		memberList.setVisibleRowCount(5);
+		memberList.addListSelectionListener(this);
+		JScrollPane partyPane = new JScrollPane(memberList);
+		//        partyPane.setVerticalScrollBarPolicy(JScrollPane.VERTICAL_SCROLLBAR_ALWAYS);
+		partyPanel.add(partyPane);
+
+		partyPanel.add( memberList );
+
+		// Button Panel
+		// Button Panel
+		JPanel buttonPanel = new JPanel();
+		buttonPanel.setLayout(new GridLayout(2, 1));
+
+		Insets buttonMargin = new Insets(4, 4, 4, 4);
+
+		printButton = new JButton("Print Report");
+		JPanel printButtonPanel = new JPanel();
+		printButtonPanel.setLayout(new FlowLayout());
+		printButton.addActionListener(this);
+		printButtonPanel.add(printButton);
+
+		finished = new JButton("Finished");
+		JPanel finishedPanel = new JPanel();
+		finishedPanel.setLayout(new FlowLayout());
+		finished.addActionListener(this);
+		finishedPanel.add(finished);
+
+		buttonPanel.add(printButton);
+		buttonPanel.add(finished);
+
+		// Clean up main panel
+		colPanel.add(partyPanel);
+		colPanel.add(buttonPanel);
+
+		win.getContentPane().add("Center", colPanel);
+
+		win.pack();
+
+		// Center Window on Screen
+		Dimension screenSize = (Toolkit.getDefaultToolkit()).getScreenSize();
+		win.setLocation(
+			((screenSize.width) / 2) - ((win.getSize().width) / 2),
+			((screenSize.height) / 2) - ((win.getSize().height) / 2));
+		win.show();
+
+	}
+
+	public void actionPerformed(ActionEvent e) {
+		if (e.getSource().equals(printButton)) {		
+			//Add selected to the vector.
+			retVal.add(selectedMember);
+		}
+		if (e.getSource().equals(finished)) {		
+			win.hide();
+			result = 1;
+		}
+
+	}
+
+	public void valueChanged(ListSelectionEvent e) {
+		selectedMember =
+			((String) ((JList) e.getSource()).getSelectedValue());
+	}
+
+	public Vector getResult() {
+		while ( result == 0 ) {
+			try {
+				Thread.sleep(10);
+			} catch ( InterruptedException e ) {
+				System.err.println( "Interrupted" );
+			}
+		}
+		return retVal;	
+	}
+	
+	public void destroy() {
+		win.hide();
+	}
+
+	public static void main( String args[] ) {
+		Vector bowlers = new Vector();
+		for ( int i=0; i<4; i++ ) {
+			bowlers.add( new Bowler( "aaaaa", "aaaaa", "aaaaa" ) );
+		}
+		Party party = new Party( bowlers );
+		String partyName="wank";
+		EndGameReport e = new EndGameReport( partyName, party );
+	}
+	
+}
+
+
+
+
+
+
+public class Lane extends Thread implements PinsetterObserver {	
+	private Party party;
+	private Pinsetter setter;
+	private HashMap scores;
+	private Vector subscribers;
+
+	private boolean gameIsHalted;
+
+	private boolean partyAssigned;
+	private boolean gameFinished;
+	private Iterator bowlerIterator;
+	private int ball;
+	private int bowlIndex;
+	private int frameNumber;
+	private boolean tenthFrameStrike;
+
+	private int[] curScores;
+	private int[][] cumulScores;
+	private boolean canThrowAgain;
+	
+	private int[][] finalScores;
+	private int gameNumber;
+	
+	private Bowler currentThrower;			// = the thrower who just took a throw
+
+	/** Lane()
+	 * 
+	 * Constructs a new lane and starts its thread
+	 * 
+	 * @pre none
+	 * @post a new lane has been created and its thered is executing
+	 */
+	public Lane() { 
+		setter = new Pinsetter();
+		scores = new HashMap();
+		subscribers = new Vector();
+
+		gameIsHalted = false;
+		partyAssigned = false;
+
+		gameNumber = 0;
+
+		setter.subscribe( this );
+		
+		this.start();
+	}
+
+	/** run()
+	 * 
+	 * entry point for execution of this lane 
+	 */
+	public void run() {
+		
+		while (true) {
+			if (partyAssigned && !gameFinished) {	// we have a party on this lane, 
+								// so next bower can take a throw
+			
+				while (gameIsHalted) {
+					try {
+						sleep(10);
+					} catch (Exception e) {}
+				}
+
+
+				if (bowlerIterator.hasNext()) {
+					currentThrower = (Bowler)bowlerIterator.next();
+
+					canThrowAgain = true;
+					tenthFrameStrike = false;
+					ball = 0;
+					while (canThrowAgain) {
+						setter.ballThrown();		// simulate the thrower's ball hiting
+						ball++;
+					}
+					
+					if (frameNumber == 9){
+						finalScores[bowlIndex][gameNumber] = cumulScores[bowlIndex][9];
+						try{
+						Date date = new Date();
+						String dateString = "" + date.getHours() + ":" + date.getMinutes() + " " + date.getMonth() + "/" + date.getDay() + "/" + (date.getYear() + 1900);
+						ScoreHistoryFile.addScore(currentThrower.getNick(), dateString, new Integer(cumulScores[bowlIndex][9]).toString());
+						} catch (Exception e) {System.err.println("Exception in addScore. "+ e );} 
+					}
+
+					
+					setter.reset();
+					bowlIndex++;
+					
+				} else {
+					frameNumber++;
+					resetBowlerIterator();
+					bowlIndex = 0;
+					if (frameNumber > 9) {
+						gameFinished = true;
+						gameNumber++;
+					}
+				}
+			} else if (partyAssigned && gameFinished) {
+				EndGamePrompt egp = new EndGamePrompt( ((Bowler) party.getMembers().get(0)).getNickName() + "'s Party" );
+				int result = egp.getResult();
+				egp.distroy();
+				egp = null;
+				
+				
+				System.out.println("result was: " + result);
+				
+				// TODO: send record of scores to control desk
+				if (result == 1) {					// yes, want to play again
+					resetScores();
+					resetBowlerIterator();
+					
+				} else if (result == 2) {// no, dont want to play another game
+					Vector printVector;	
+					EndGameReport egr = new EndGameReport( ((Bowler)party.getMembers().get(0)).getNickName() + "'s Party", party);
+					printVector = egr.getResult();
+					partyAssigned = false;
+					Iterator scoreIt = party.getMembers().iterator();
+					party = null;
+					partyAssigned = false;
+					
+					publish(lanePublish());
+					
+					int myIndex = 0;
+					while (scoreIt.hasNext()){
+						Bowler thisBowler = (Bowler)scoreIt.next();
+						ScoreReport sr = new ScoreReport( thisBowler, finalScores[myIndex++], gameNumber );
+						sr.sendEmail(thisBowler.getEmail());
+						Iterator printIt = printVector.iterator();
+						while (printIt.hasNext()){
+							if (thisBowler.getNick() == (String)printIt.next()){
+								System.out.println("Printing " + thisBowler.getNick());
+								sr.sendPrintout();
+							}
+						}
+
+					}
+				}
+			}
+			
+			
+			try {
+				sleep(10);
+			} catch (Exception e) {}
+		}
+	}
+	
+	/** recievePinsetterEvent()
+	 * 
+	 * recieves the thrown event from the pinsetter
+	 *
+	 * @pre none
+	 * @post the event has been acted upon if desiered
+	 * 
+	 * @param pe 		The pinsetter event that has been received.
+	 */
+	public void receivePinsetterEvent(PinsetterEvent pe) {
+		
+			if (pe.pinsDownOnThisThrow() >=  0) {			// this is a real throw
+				markScore(currentThrower, frameNumber + 1, pe.getThrowNumber(), pe.pinsDownOnThisThrow());
+	
+				// next logic handles the ?: what conditions dont allow them another throw?
+				// handle the case of 10th frame first
+				if (frameNumber == 9) {
+					if (pe.totalPinsDown() == 10) {
+						setter.resetPins();
+						if(pe.getThrowNumber() == 1) {
+							tenthFrameStrike = true;
+						}
+					}
+				
+					if ((pe.totalPinsDown() != 10) && (pe.getThrowNumber() == 2 && tenthFrameStrike == false)) {
+						canThrowAgain = false;
+						//publish( lanePublish() );
+					}
+				
+					if (pe.getThrowNumber() == 3) {
+						canThrowAgain = false;
+						//publish( lanePublish() );
+					}
+				} else { // its not the 10th frame
+			
+					if (pe.pinsDownOnThisThrow() == 10) {		// threw a strike
+						canThrowAgain = false;
+						//publish( lanePublish() );
+					} else if (pe.getThrowNumber() == 2) {
+						canThrowAgain = false;
+						//publish( lanePublish() );
+					} else if (pe.getThrowNumber() == 3)  
+						System.out.println("I'm here...");
+				}
+			} else {								//  this is not a real throw, probably a reset
+			}
+	}
+	
+	/** resetBowlerIterator()
+	 * 
+	 * sets the current bower iterator back to the first bowler
+	 * 
+	 * @pre the party as been assigned
+	 * @post the iterator points to the first bowler in the party
+	 */
+	private void resetBowlerIterator() {
+		bowlerIterator = (party.getMembers()).iterator();
+	}
+
+	/** resetScores()
+	 * 
+	 * resets the scoring mechanism, must be called before scoring starts
+	 * 
+	 * @pre the party has been assigned
+	 * @post scoring system is initialized
+	 */
+	private void resetScores() {
+		Iterator bowlIt = (party.getMembers()).iterator();
+
+		while ( bowlIt.hasNext() ) {
+			int[] toPut = new int[25];
+			for ( int i = 0; i != 25; i++){
+				toPut[i] = -1;
+			}
+			scores.put( bowlIt.next(), toPut );
+		}
+		
+		
+		
+		gameFinished = false;
+		frameNumber = 0;
+	}
+		
+	/** assignParty()
+	 * 
+	 * assigns a party to this lane
+	 * 
+	 * @pre none
+	 * @post the party has been assigned to the lane
+	 * 
+	 * @param theParty		Party to be assigned
+	 */
+	public void assignParty( Party theParty ) {
+		party = theParty;
+		resetBowlerIterator();
+		partyAssigned = true;
+		
+		curScores = new int[party.getMembers().size()];
+		cumulScores = new int[party.getMembers().size()][10];
+		finalScores = new int[party.getMembers().size()][128]; //Hardcoding a max of 128 games, bite me.
+		gameNumber = 0;
+		
+		resetScores();
+	}
+
+	/** markScore()
+	 *
+	 * Method that marks a bowlers score on the board.
+	 * 
+	 * @param Cur		The current bowler
+	 * @param frame	The frame that bowler is on
+	 * @param ball		The ball the bowler is on
+	 * @param score	The bowler's score 
+	 */
+	private void markScore( Bowler Cur, int frame, int ball, int score ){
+		int[] curScore;
+		int index =  ( (frame - 1) * 2 + ball);
+
+		curScore = (int[]) scores.get(Cur);
+
+	
+		curScore[ index - 1] = score;
+		scores.put(Cur, curScore);
+		getScore( Cur, frame );
+		publish( lanePublish() );
+	}
+
+	/** lanePublish()
+	 *
+	 * Method that creates and returns a newly created laneEvent
+	 * 
+	 * @return		The new lane event
+	 */
+	private LaneEvent lanePublish(  ) {
+		LaneEvent laneEvent = new LaneEvent(party, bowlIndex, currentThrower, cumulScores, scores, frameNumber+1, curScores, ball, gameIsHalted);
+		return laneEvent;
+	}
+
+	/** getScore()
+	 *
+	 * Method that calculates a bowlers score
+	 * 
+	 * @param Cur		The bowler that is currently up
+	 * @param frame	The frame the current bowler is on
+	 * 
+	 * @return			The bowlers total score
+	 */
+	private int getScore( Bowler Cur, int frame) {
+		int[] curScore;
+		int strikeballs = 0;
+		int totalScore = 0;
+		curScore = (int[]) scores.get(Cur);
+		for (int i = 0; i != 10; i++){
+			cumulScores[bowlIndex][i] = 0;
+		}
+		int current = 2*(frame - 1)+ball-1;
+		//Iterate through each ball until the current one.
+		for (int i = 0; i != current+2; i++){
+			//Spare:
+			if( i%2 == 1 && curScore[i - 1] + curScore[i] == 10 && i < current - 1 && i < 19){
+				//This ball was a the second of a spare.  
+				//Also, we're not on the current ball.
+				//Add the next ball to the ith one in cumul.
+				cumulScores[bowlIndex][(i/2)] += curScore[i+1] + curScore[i]; 
+				if (i > 1) {
+					//cumulScores[bowlIndex][i/2] += cumulScores[bowlIndex][i/2 -1];
+				}
+			} else if( i < current && i%2 == 0 && curScore[i] == 10  && i < 18){
+				strikeballs = 0;
+				//This ball is the first ball, and was a strike.
+				//If we can get 2 balls after it, good add them to cumul.
+				if (curScore[i+2] != -1) {
+					strikeballs = 1;
+					if(curScore[i+3] != -1) {
+						//Still got em.
+						strikeballs = 2;
+					} else if(curScore[i+4] != -1) {
+						//Ok, got it.
+						strikeballs = 2;
+					}
+				}
+				if (strikeballs == 2){
+					//Add up the strike.
+					//Add the next two balls to the current cumulscore.
+					cumulScores[bowlIndex][i/2] += 10;
+					if(curScore[i+1] != -1) {
+						cumulScores[bowlIndex][i/2] += curScore[i+1] + cumulScores[bowlIndex][(i/2)-1];
+						if (curScore[i+2] != -1){
+							if( curScore[i+2] != -2){
+								cumulScores[bowlIndex][(i/2)] += curScore[i+2];
+							}
+						} else {
+							if( curScore[i+3] != -2){
+								cumulScores[bowlIndex][(i/2)] += curScore[i+3];
+							}
+						}
+					} else {
+						if ( i/2 > 0 ){
+							cumulScores[bowlIndex][i/2] += curScore[i+2] + cumulScores[bowlIndex][(i/2)-1];
+						} else {
+							cumulScores[bowlIndex][i/2] += curScore[i+2];
+						}
+						if (curScore[i+3] != -1){
+							if( curScore[i+3] != -2){
+								cumulScores[bowlIndex][(i/2)] += curScore[i+3];
+							}
+						} else {
+							cumulScores[bowlIndex][(i/2)] += curScore[i+4];
+						}
+					}
+				} else {
+					break;
+				}
+			}else { 
+				//We're dealing with a normal throw, add it and be on our way.
+				if( i%2 == 0 && i < 18){
+					if ( i/2 == 0 ) {
+						//First frame, first ball.  Set his cumul score to the first ball
+						if(curScore[i] != -2){	
+							cumulScores[bowlIndex][i/2] += curScore[i];
+						}
+					} else if (i/2 != 9){
+						//add his last frame's cumul to this ball, make it this frame's cumul.
+						if(curScore[i] != -2){
+							cumulScores[bowlIndex][i/2] += cumulScores[bowlIndex][i/2 - 1] + curScore[i];
+						} else {
+							cumulScores[bowlIndex][i/2] += cumulScores[bowlIndex][i/2 - 1];
+						}	
+					}
+				} else if (i < 18){ 
+					if(curScore[i] != -1 && i > 2){
+						if(curScore[i] != -2){
+							cumulScores[bowlIndex][i/2] += curScore[i];
+						}
+					}
+				}
+				if (i/2 == 9){
+					if (i == 18){
+						cumulScores[bowlIndex][9] += cumulScores[bowlIndex][8];	
+					}
+					if(curScore[i] != -2){
+						cumulScores[bowlIndex][9] += curScore[i];
+					}
+				} else if (i/2 == 10) {
+					if(curScore[i] != -2){
+						cumulScores[bowlIndex][9] += curScore[i];
+					}
+				}
+			}
+		}
+		return totalScore;
+	}
+
+	/** isPartyAssigned()
+	 * 
+	 * checks if a party is assigned to this lane
+	 * 
+	 * @return true if party assigned, false otherwise
+	 */
+	public boolean isPartyAssigned() {
+		return partyAssigned;
+	}
+	
+	/** isGameFinished
+	 * 
+	 * @return true if the game is done, false otherwise
+	 */
+	public boolean isGameFinished() {
+		return gameFinished;
+	}
+
+	/** subscribe
+	 * 
+	 * Method that will add a subscriber
+	 * 
+	 * @param subscribe	Observer that is to be added
+	 */
+
+	public void subscribe( LaneObserver adding ) {
+		subscribers.add( adding );
+	}
+
+	/** unsubscribe
+	 * 
+	 * Method that unsubscribes an observer from this object
+	 * 
+	 * @param removing	The observer to be removed
+	 */
+	
+	public void unsubscribe( LaneObserver removing ) {
+		subscribers.remove( removing );
+	}
+
+	/** publish
+	 *
+	 * Method that publishes an event to subscribers
+	 * 
+	 * @param event	Event that is to be published
+	 */
+
+	public void publish( LaneEvent event ) {
+		if( subscribers.size() > 0 ) {
+			Iterator eventIterator = subscribers.iterator();
+			
+			while ( eventIterator.hasNext() ) {
+				( (LaneObserver) eventIterator.next()).receiveLaneEvent( event );
+			}
+		}
+	}
+
+	/**
+	 * Accessor to get this Lane's pinsetter
+	 * 
+	 * @return		A reference to this lane's pinsetter
+	 */
+
+	public Pinsetter getPinsetter() {
+		return setter;	
+	}
+
+	/**
+	 * Pause the execution of this game
+	 */
+	public void pauseGame() {
+		gameIsHalted = true;
+		publish(lanePublish());
+	}
+	
+	/**
+	 * Resume the execution of this game
+	 */
+	public void unPauseGame() {
+		gameIsHalted = false;
+		publish(lanePublish());
+	}
+
+}
+
+
+
+public class LaneEvent {
+
+	private Party p;
+	int frame;
+	int ball;
+	Bowler bowler;
+	int[][] cumulScore;
+	HashMap score;
+	int index;
+	int frameNum;
+	int[] curScores;
+	boolean mechProb;
+	
+	public LaneEvent( Party pty, int theIndex, Bowler theBowler, int[][] theCumulScore, HashMap theScore, int theFrameNum, int[] theCurScores, int theBall, boolean mechProblem) {
+		p = pty;
+		index = theIndex;
+		bowler = theBowler;
+		cumulScore = theCumulScore;
+		score = theScore;
+		curScores = theCurScores;
+		frameNum = theFrameNum;
+		ball = theBall;	
+		mechProb = mechProblem;
+	}
+	
+	public boolean isMechanicalProblem() {
+		return mechProb;
+	}
+	
+	public int getFrameNum() {
+		return frameNum;
+	}
+	
+	public HashMap getScore( ) {
+		return score;
+	}
+
+
+	public int[] getCurScores(){ 
+		return curScores;
+	}
+	
+	public int getIndex() {
+		return index;
+	}
+
+	public int getFrame( ) {
+		return frame;
+	}
+
+	public int getBall( ) {
+		return ball;
+	}
+	
+	public int[][] getCumulScore(){
+		return cumulScore;
+	}
+
+	public Party getParty() {
+		return p;
+	}
+	
+	public Bowler getBowler() {
+		return bowler;
+	}
+
+};
+
+
+
+
+public interface LaneEventInterface extends java.rmi.Remote {
+	public int getFrameNum( ) throws java.rmi.RemoteException;
+	public HashMap getScore( ) throws java.rmi.RemoteException;
+	public int[] getCurScores( ) throws java.rmi.RemoteException;
+	public int getIndex() throws java.rmi.RemoteException;
+	public int getFrame() throws java.rmi.RemoteException;
+	public int getBall() throws java.rmi.RemoteException;
+	public int[][] getCumulScore() throws java.rmi.RemoteException;
+	public Party getParty() throws java.rmi.RemoteException;
+	public Bowler getBowler() throws java.rmi.RemoteException;
+
+}
+
+
+
+public interface LaneObserver {
+	public void receiveLaneEvent(LaneEvent le);
+};
+
+
+
+public interface LaneServer extends java.rmi.Remote {
+	public void subscribe(LaneObserver toAdd) throws java.rmi.RemoteException;
+};
+
+
+
+public class LaneStatusView implements ActionListener, LaneObserver, PinsetterObserver {
+
+	private JPanel jp;
+
+	private JLabel curBowler, foul, pinsDown;
+	private JButton viewLane;
+	private JButton viewPinSetter, maintenance;
+
+	private PinSetterView psv;
+	private LaneView lv;
+	private Lane lane;
+	int laneNum;
+
+	boolean laneShowing;
+	boolean psShowing;
+
+	public LaneStatusView(Lane lane, int laneNum ) {
+
+		this.lane = lane;
+		this.laneNum = laneNum;
+
+		laneShowing=false;
+		psShowing=false;
+
+		psv = new PinSetterView( laneNum );
+		Pinsetter ps = lane.getPinsetter();
+		ps.subscribe(psv);
+
+		lv = new LaneView( lane, laneNum );
+		lane.subscribe(lv);
+
+
+		jp = new JPanel();
+		jp.setLayout(new FlowLayout());
+		JLabel cLabel = new JLabel( "Now Bowling: " );
+		curBowler = new JLabel( "(no one)" );
+		JLabel fLabel = new JLabel( "Foul: " );
+		foul = new JLabel( " " );
+		JLabel pdLabel = new JLabel( "Pins Down: " );
+		pinsDown = new JLabel( "0" );
+
+		// Button Panel
+		JPanel buttonPanel = new JPanel();
+		buttonPanel.setLayout(new FlowLayout());
+
+		Insets buttonMargin = new Insets(4, 4, 4, 4);
+
+		viewLane = new JButton("View Lane");
+		JPanel viewLanePanel = new JPanel();
+		viewLanePanel.setLayout(new FlowLayout());
+		viewLane.addActionListener(this);
+		viewLanePanel.add(viewLane);
+
+		viewPinSetter = new JButton("Pinsetter");
+		JPanel viewPinSetterPanel = new JPanel();
+		viewPinSetterPanel.setLayout(new FlowLayout());
+		viewPinSetter.addActionListener(this);
+		viewPinSetterPanel.add(viewPinSetter);
+
+		maintenance = new JButton("     ");
+		maintenance.setBackground( Color.GREEN );
+		JPanel maintenancePanel = new JPanel();
+		maintenancePanel.setLayout(new FlowLayout());
+		maintenance.addActionListener(this);
+		maintenancePanel.add(maintenance);
+
+		viewLane.setEnabled( false );
+		viewPinSetter.setEnabled( false );
+
+
+		buttonPanel.add(viewLanePanel);
+		buttonPanel.add(viewPinSetterPanel);
+		buttonPanel.add(maintenancePanel);
+
+		jp.add( cLabel );
+		jp.add( curBowler );
+//		jp.add( fLabel );
+//		jp.add( foul );
+		jp.add( pdLabel );
+		jp.add( pinsDown );
+		
+		jp.add(buttonPanel);
+
+	}
+
+	public JPanel showLane() {
+		return jp;
+	}
+
+	public void actionPerformed( ActionEvent e ) {
+		if ( lane.isPartyAssigned() ) { 
+			if (e.getSource().equals(viewPinSetter)) {
+				if ( psShowing == false ) {
+					psv.show();
+					psShowing=true;
+				} else if ( psShowing == true ) {
+					psv.hide();
+					psShowing=false;
+				}
+			}
+		}
+		if (e.getSource().equals(viewLane)) {
+			if ( lane.isPartyAssigned() ) { 
+				if ( laneShowing == false ) {
+					lv.show();
+					laneShowing=true;
+				} else if ( laneShowing == true ) {
+					lv.hide();
+					laneShowing=false;
+				}
+			}
+		}
+		if (e.getSource().equals(maintenance)) {
+			if ( lane.isPartyAssigned() ) {
+				lane.unPauseGame();
+				maintenance.setBackground( Color.GREEN );
+			}
+		}
+	}
+
+	public void receiveLaneEvent(LaneEvent le) {
+		curBowler.setText( ( (Bowler)le.getBowler()).getNickName() );
+		if ( le.isMechanicalProblem() ) {
+			maintenance.setBackground( Color.RED );
+		}	
+		if ( lane.isPartyAssigned() == false ) {
+			viewLane.setEnabled( false );
+			viewPinSetter.setEnabled( false );
+		} else {
+			viewLane.setEnabled( true );
+			viewPinSetter.setEnabled( true );
+		}
+	}
+
+	public void receivePinsetterEvent(PinsetterEvent pe) {
+		pinsDown.setText( ( new Integer(pe.totalPinsDown()) ).toString() );
+//		foul.setText( ( new Boolean(pe.isFoulCommited()) ).toString() );
+		
+	}
+
+}
+
+
+
+public class LaneView implements LaneObserver, ActionListener {
+
+	private int roll;
+	private boolean initDone = true;
+
+	JFrame frame;
+	Container cpanel;
+	Vector bowlers;
+	int cur;
+	Iterator bowlIt;
+
+	JPanel[][] balls;
+	JLabel[][] ballLabel;
+	JPanel[][] scores;
+	JLabel[][] scoreLabel;
+	JPanel[][] ballGrid;
+	JPanel[] pins;
+
+	JButton maintenance;
+	Lane lane;
+
+	public LaneView(Lane lane, int laneNum) {
+
+		this.lane = lane;
+
+		initDone = true;
+		frame = new JFrame("Lane " + laneNum + ":");
+		cpanel = frame.getContentPane();
+		cpanel.setLayout(new BorderLayout());
+
+		frame.addWindowListener(new WindowAdapter() {
+			public void windowClosing(WindowEvent e) {
+				frame.hide();
+			}
+		});
+
+		cpanel.add(new JPanel());
+
+	}
+
+	public void show() {
+		frame.show();
+	}
+
+	public void hide() {
+		frame.hide();
+	}
+
+	private JPanel makeFrame(Party party) {
+
+		initDone = false;
+		bowlers = party.getMembers();
+		int numBowlers = bowlers.size();
+
+		JPanel panel = new JPanel();
+
+		panel.setLayout(new GridLayout(0, 1));
+
+		balls = new JPanel[numBowlers][23];
+		ballLabel = new JLabel[numBowlers][23];
+		scores = new JPanel[numBowlers][10];
+		scoreLabel = new JLabel[numBowlers][10];
+		ballGrid = new JPanel[numBowlers][10];
+		pins = new JPanel[numBowlers];
+
+		for (int i = 0; i != numBowlers; i++) {
+			for (int j = 0; j != 23; j++) {
+				ballLabel[i][j] = new JLabel(" ");
+				balls[i][j] = new JPanel();
+				balls[i][j].setBorder(
+					BorderFactory.createLineBorder(Color.BLACK));
+				balls[i][j].add(ballLabel[i][j]);
+			}
+		}
+
+		for (int i = 0; i != numBowlers; i++) {
+			for (int j = 0; j != 9; j++) {
+				ballGrid[i][j] = new JPanel();
+				ballGrid[i][j].setLayout(new GridLayout(0, 3));
+				ballGrid[i][j].add(new JLabel("  "), BorderLayout.EAST);
+				ballGrid[i][j].add(balls[i][2 * j], BorderLayout.EAST);
+				ballGrid[i][j].add(balls[i][2 * j + 1], BorderLayout.EAST);
+			}
+			int j = 9;
+			ballGrid[i][j] = new JPanel();
+			ballGrid[i][j].setLayout(new GridLayout(0, 3));
+			ballGrid[i][j].add(balls[i][2 * j]);
+			ballGrid[i][j].add(balls[i][2 * j + 1]);
+			ballGrid[i][j].add(balls[i][2 * j + 2]);
+		}
+
+		for (int i = 0; i != numBowlers; i++) {
+			pins[i] = new JPanel();
+			pins[i].setBorder(
+				BorderFactory.createTitledBorder(
+					((Bowler) bowlers.get(i)).getNick()));
+			pins[i].setLayout(new GridLayout(0, 10));
+			for (int k = 0; k != 10; k++) {
+				scores[i][k] = new JPanel();
+				scoreLabel[i][k] = new JLabel("  ", SwingConstants.CENTER);
+				scores[i][k].setBorder(
+					BorderFactory.createLineBorder(Color.BLACK));
+				scores[i][k].setLayout(new GridLayout(0, 1));
+				scores[i][k].add(ballGrid[i][k], BorderLayout.EAST);
+				scores[i][k].add(scoreLabel[i][k], BorderLayout.SOUTH);
+				pins[i].add(scores[i][k], BorderLayout.EAST);
+			}
+			panel.add(pins[i]);
+		}
+
+		initDone = true;
+		return panel;
+	}
+
+	public void receiveLaneEvent(LaneEvent le) {
+		if (lane.isPartyAssigned()) {
+			int numBowlers = le.getParty().getMembers().size();
+			while (!initDone) {
+				//System.out.println("chillin' here.");
+				try {
+					Thread.sleep(1);
+				} catch (Exception e) {
+				}
+			}
+
+			if (le.getFrameNum() == 1
+				&& le.getBall() == 0
+				&& le.getIndex() == 0) {
+				System.out.println("Making the frame.");
+				cpanel.removeAll();
+				cpanel.add(makeFrame(le.getParty()), "Center");
+
+				// Button Panel
+				JPanel buttonPanel = new JPanel();
+				buttonPanel.setLayout(new FlowLayout());
+
+				Insets buttonMargin = new Insets(4, 4, 4, 4);
+
+				maintenance = new JButton("Maintenance Call");
+				JPanel maintenancePanel = new JPanel();
+				maintenancePanel.setLayout(new FlowLayout());
+				maintenance.addActionListener(this);
+				maintenancePanel.add(maintenance);
+
+				buttonPanel.add(maintenancePanel);
+
+				cpanel.add(buttonPanel, "South");
+
+				frame.pack();
+
+			}
+
+			int[][] lescores = le.getCumulScore();
+			for (int k = 0; k < numBowlers; k++) {
+				for (int i = 0; i <= le.getFrameNum() - 1; i++) {
+					if (lescores[k][i] != 0)
+						scoreLabel[k][i].setText(
+							(new Integer(lescores[k][i])).toString());
+				}
+				for (int i = 0; i < 21; i++) {
+					if (((int[]) ((HashMap) le.getScore())
+						.get(bowlers.get(k)))[i]
+						!= -1)
+						if (((int[]) ((HashMap) le.getScore())
+							.get(bowlers.get(k)))[i]
+							== 10
+							&& (i % 2 == 0 || i == 19))
+							ballLabel[k][i].setText("X");
+						else if (
+							i > 0
+								&& ((int[]) ((HashMap) le.getScore())
+									.get(bowlers.get(k)))[i]
+									+ ((int[]) ((HashMap) le.getScore())
+										.get(bowlers.get(k)))[i
+									- 1]
+									== 10
+								&& i % 2 == 1)
+							ballLabel[k][i].setText("/");
+						else if ( ((int[])((HashMap) le.getScore()).get(bowlers.get(k)))[i] == -2 ){
+							
+							ballLabel[k][i].setText("F");
+						} else
+							ballLabel[k][i].setText(
+								(new Integer(((int[]) ((HashMap) le.getScore())
+									.get(bowlers.get(k)))[i]))
+									.toString());
+				}
+			}
+
+		}
+	}
+
+	public void actionPerformed(ActionEvent e) {
+		if (e.getSource().equals(maintenance)) {
+			lane.pauseGame();
+		}
+	}
+
+}
+
+
+
+
+public class NewPatronView implements ActionListener {
+
+	private int maxSize;
+
+	private JFrame win;
+	private JButton abort, finished;
+	private JLabel nickLabel, fullLabel, emailLabel;
+	private JTextField nickField, fullField, emailField;
+	private String nick, full, email;
+
+	private boolean done;
+
+	private String selectedNick, selectedMember;
+	private AddPartyView addParty;
+
+	public NewPatronView(AddPartyView v) {
+
+		addParty=v;	
+		done = false;
+
+		win = new JFrame("Add Patron");
+		win.getContentPane().setLayout(new BorderLayout());
+		((JPanel) win.getContentPane()).setOpaque(false);
+
+		JPanel colPanel = new JPanel();
+		colPanel.setLayout(new BorderLayout());
+
+		// Patron Panel
+		JPanel patronPanel = new JPanel();
+		patronPanel.setLayout(new GridLayout(3, 1));
+		patronPanel.setBorder(new TitledBorder("Your Info"));
+
+		JPanel nickPanel = new JPanel();
+		nickPanel.setLayout(new FlowLayout());
+		nickLabel = new JLabel("Nick Name");
+		nickField = new JTextField("", 15);
+		nickPanel.add(nickLabel);
+		nickPanel.add(nickField);
+
+		JPanel fullPanel = new JPanel();
+		fullPanel.setLayout(new FlowLayout());
+		fullLabel = new JLabel("Full Name");
+		fullField = new JTextField("", 15);
+		fullPanel.add(fullLabel);
+		fullPanel.add(fullField);
+
+		JPanel emailPanel = new JPanel();
+		emailPanel.setLayout(new FlowLayout());
+		emailLabel = new JLabel("E-Mail");
+		emailField = new JTextField("", 15);
+		emailPanel.add(emailLabel);
+		emailPanel.add(emailField);
+
+		patronPanel.add(nickPanel);
+		patronPanel.add(fullPanel);
+		patronPanel.add(emailPanel);
+
+		// Button Panel
+		JPanel buttonPanel = new JPanel();
+		buttonPanel.setLayout(new GridLayout(4, 1));
+
+		Insets buttonMargin = new Insets(4, 4, 4, 4);
+
+		finished = new JButton("Add Patron");
+		JPanel finishedPanel = new JPanel();
+		finishedPanel.setLayout(new FlowLayout());
+		finished.addActionListener(this);
+		finishedPanel.add(finished);
+
+		abort = new JButton("Abort");
+		JPanel abortPanel = new JPanel();
+		abortPanel.setLayout(new FlowLayout());
+		abort.addActionListener(this);
+		abortPanel.add(abort);
+
+		buttonPanel.add(abortPanel);
+		buttonPanel.add(finishedPanel);
+
+		// Clean up main panel
+		colPanel.add(patronPanel, "Center");
+		colPanel.add(buttonPanel, "East");
+
+		win.getContentPane().add("Center", colPanel);
+
+		win.pack();
+
+		// Center Window on Screen
+		Dimension screenSize = (Toolkit.getDefaultToolkit()).getScreenSize();
+		win.setLocation(
+			((screenSize.width) / 2) - ((win.getSize().width) / 2),
+			((screenSize.height) / 2) - ((win.getSize().height) / 2));
+		win.show();
+
+	}
+
+	public void actionPerformed(ActionEvent e) {
+		if (e.getSource().equals(abort)) {
+			done = true;
+			win.hide();
+		}
+
+		if (e.getSource().equals(finished)) {
+			nick = nickField.getText();
+			full = fullField.getText();
+			email = emailField.getText();
+			done = true;
+			addParty.updateNewPatron( this );
+			win.hide();
+		}
+
+	}
+
+	public boolean done() {
+		return done;
+	}
+
+	public String getNick() {
+		return nick;
+	}
+
+	public String getFull() {
+		return full;
+	}
+
+	public String getEmail() {
+		return email;
+	}
+
+}
+
+
+
+
+public class Party {
+
+	/** Vector of bowlers in this party */	
+    private Vector myBowlers;
+	
+	/**
+	 * Constructor for a Party
+	 * 
+	 * @param bowlers	Vector of bowlers that are in this party
+	 */
+		
+    public Party( Vector bowlers ) {
+		myBowlers = new Vector(bowlers);
+    }
+
+	/**
+	 * Accessor for members in this party
+	 * 
+	 * @return 	A vector of the bowlers in this party
+	 */
+
+    public Vector getMembers() {
+		return myBowlers;
+    }
+
+}
+
+
+
+public class Pinsetter {
+
+	private Random rnd;
+	private Vector subscribers;
+
+	private boolean[] pins; 
+			/* 0-9 of state of pine, true for standing, 
+			false for knocked down
+
+			6   7   8   9
+			  3   4   5
+			    2   1
+			      0
+
+			*/
+	private boolean foul;
+	private int throwNumber;
+
+	/** sendEvent()
+	 * 
+	 * Sends pinsetter events to all subscribers
+	 * 
+	 * @pre none
+	 * @post all subscribers have recieved pinsetter event with updated state
+	 * */
+	private void sendEvent(int jdpins) {	// send events when our state is changd
+		for (int i=0; i < subscribers.size(); i++) {
+			((PinsetterObserver)subscribers.get(i)).receivePinsetterEvent(
+				new PinsetterEvent(pins, foul, throwNumber, jdpins));
+		}
+	}
+
+	/** Pinsetter()
+	 * 
+	 * Constructs a new pinsetter
+	 * 
+	 * @pre none
+	 * @post a new pinsetter is created
+	 * @return Pinsetter object
+	 */
+	public Pinsetter() {
+		pins = new boolean[10];
+		rnd = new Random();
+		subscribers = new Vector();
+		foul = false;
+		reset();
+	}
+
+	/** ballThrown()
+	 * 
+	 * Called to simulate a ball thrown comming in contact with the pinsetter
+	 * 
+	 * @pre none
+	 * @post pins may have been knocked down and the thrownumber has been incremented
+	 */
+	public void ballThrown() {	// simulated event of ball hits sensor
+		int count = 0;
+		foul = false;
+		double skill = rnd.nextDouble();
+		for (int i=0; i <= 9; i++) {
+			if (pins[i]) {
+				double pinluck = rnd.nextDouble();
+				if (pinluck <= .04){ 
+					foul = true;
+				}
+				if ( ((skill + pinluck)/2.0 * 1.2) > .5 ){
+					pins[i] = false;
+				} 
+				if (!pins[i]) {		// this pin just knocked down
+					count++;
+				}
+			}
+		}
+
+		try {
+			Thread.sleep(500);				// pinsetter is where delay will be in a real game
+		} catch (Exception e) {}
+
+		sendEvent(count);
+
+		throwNumber++;
+	}
+
+	/** reset()
+	 * 
+	 * Reset the pinsetter to its complete state
+	 * 
+	 * @pre none
+	 * @post pinsetters state is reset
+	 */
+	public void reset() {
+		foul = false;
+		throwNumber = 1;
+		resetPins();
+		
+		try {
+			Thread.sleep(1000);
+		} catch (Exception e) {}
+		
+		sendEvent(-1);
+	}
+
+	/** resetPins()
+	 * 
+	 * Reset the pins on the pinsetter
+	 * 
+	 * @pre none
+	 * @post pins array is reset to all pins up
+	 */
+	public void resetPins() {
+		for (int i=0; i <= 9; i++) {
+			pins[i] = true;
+		}
+	}		
+
+	/** subscribe()
+	 * 
+	 * subscribe objects to send events to
+	 * 
+	 * @pre none
+	 * @post the subscriber object will recieve events when their generated
+	 */
+	public void subscribe(PinsetterObserver subscriber) {
+		subscribers.add(subscriber);
+	}
+
+};
+
+
+
+
+
+public class PinsetterEvent {
+
+	private boolean[] pinsStillStanding;
+	private boolean foulCommited;
+	private int throwNumber;
+	private int pinsDownThisThrow;
+
+	/** PinsetterEvent()
+	 * 
+	 * creates a new pinsetter event
+	 * 
+	 * @pre none
+	 * @post the object has been initialized
+	 */
+	public PinsetterEvent(boolean[] ps, boolean foul, int tn, int pinsDownThisThrow) {
+		pinsStillStanding = new boolean[10];
+
+		for (int i=0; i <= 9; i++) {
+			pinsStillStanding[i] = ps[i];
+		}
+		
+		foulCommited = foul;
+		throwNumber = tn;
+		this.pinsDownThisThrow = pinsDownThisThrow;
+	}
+
+	/** pinKnockedDown()
+	 * 
+	 * check if a pin has been knocked down
+	 * 
+	 * @return true if pin [i] has been knocked down
+	 */
+	public boolean pinKnockedDown(int i) {
+		return !pinsStillStanding[i];
+	}
+	
+	/** pinsDownOnThisThrow()
+	 * 
+	 * @return the number of pins knocked down assosicated with this event
+	 */
+	public int pinsDownOnThisThrow() {
+		return pinsDownThisThrow;
+	}
+	
+	/** totalPinsDown()
+	 * 
+	 * @return the total number of pins down for pinsetter that generated the event
+	 */
+	public int totalPinsDown() {
+		int count = 0;
+		
+		for (int i=0; i <= 9; i++) {
+			if (pinKnockedDown(i)) {
+				count++;
+			}
+		}
+		
+		return count;
+	}
+	
+	/** isFoulCommited()
+	 * 
+	 * @return true if a foul was commited on the lane, false otherwise
+	 */
+	public boolean isFoulCommited() {
+		return foulCommited;
+	}
+
+	/** getThrowNumber()
+	 *
+	 * @return current number of throws taken on this lane after last reset
+	 */
+	public int getThrowNumber() {
+		return throwNumber;
+	}
+};
+
+
+
+public interface PinsetterObserver {
+
+	/** recievePinsetterEvent()
+	 * 
+	 * defines the method for an object torecieve a pinsetter event
+	 */
+	public void receivePinsetterEvent(PinsetterEvent pe);
+};
+
+
+
+
+public class PinSetterView implements PinsetterObserver {
+
+
+    private Vector pinVect = new Vector ( );
+    private JPanel firstRoll;
+    private JPanel secondRoll;
+
+    /**
+     * Constructs a Pin Setter GUI displaying which roll it is with
+     * yellow boxes along the top (1 box for first roll, 2 boxes for second)
+     * and displays the pins as numbers in this format:
+     *
+     *                7   8   9   10
+     *                  4   5   6
+     *                    2   3
+     *                      1
+     *
+     */
+    
+
+	private JFrame frame;
+    
+    public PinSetterView ( int laneNum ) {
+	
+	frame = new JFrame ( "Lane " + laneNum + ":" );
+	
+	Container cpanel = frame.getContentPane ( );
+	
+	JPanel pins = new JPanel ( );
+	
+	pins.setLayout ( new GridLayout ( 4, 7 ) );
+	
+	//********************Top of GUI indicates first or second roll
+	
+	JPanel top = new JPanel ( );
+	
+	firstRoll = new JPanel ( );
+	firstRoll.setBackground( Color.yellow );
+	
+	secondRoll = new JPanel ( );
+	secondRoll.setBackground ( Color.black );
+	
+	top.add ( firstRoll, BorderLayout.WEST );
+	
+	top.add ( secondRoll, BorderLayout.EAST );
+	
+	//******************************************************************
+	
+	//**********************Grid of the pins**************************
+	
+	
+	JPanel one = new JPanel ();
+	JLabel oneL = new JLabel ( "1" );
+	one.add (oneL);
+	JPanel two = new JPanel ();
+	JLabel twoL = new JLabel ( "2" );
+	two.add (twoL);
+	JPanel three = new JPanel ();
+	JLabel threeL = new JLabel ( "3" );
+	three.add (threeL);
+	JPanel four = new JPanel ();
+	JLabel fourL = new JLabel ( "4" );
+	four.add (fourL);
+	JPanel five = new JPanel ();
+	JLabel fiveL = new JLabel ( "5" );
+	five.add (fiveL);
+	JPanel six = new JPanel ();
+	JLabel sixL = new JLabel ( "6" );
+	six.add (sixL);
+	JPanel seven = new JPanel ();
+	JLabel sevenL = new JLabel ( "7" );
+	seven.add (sevenL);
+	JPanel eight = new JPanel ();
+	JLabel eightL = new JLabel ( "8" );
+	eight.add (eightL);
+	JPanel nine = new JPanel ();
+	JLabel nineL = new JLabel ( "9" );
+	nine.add (nineL);
+	JPanel ten = new JPanel ();
+	JLabel tenL = new JLabel ( "10" );
+	ten.add (tenL);
+	
+	//This Vector will keep references to the pin labels to show
+	//which ones have fallen.
+	
+	pinVect.add ( oneL );
+	pinVect.add ( twoL );
+	pinVect.add ( threeL );
+	pinVect.add ( fourL );
+	pinVect.add ( fiveL );
+	pinVect.add ( sixL );
+	pinVect.add ( sevenL );
+	pinVect.add ( eightL );
+	pinVect.add ( nineL );
+	pinVect.add ( tenL );	
+	
+	
+	//******************************Fourth Row**************
+	
+	pins.add ( seven );
+	pins.add ( new JPanel ( ) );
+	pins.add ( eight );
+	pins.add ( new JPanel ( ) );
+	pins.add ( nine );
+	pins.add ( new JPanel ( ) );
+	pins.add ( ten );
+	
+	//*****************************Third Row***********
+		
+	pins.add ( new JPanel ( ) );
+	pins.add ( four );
+	pins.add ( new JPanel ( ) );
+	pins.add ( five );
+	pins.add ( new JPanel ( ) );
+	pins.add ( six );
+	
+	//*****************************Second Row**************
+ 
+	pins.add ( new JPanel ( ) );
+	pins.add ( new JPanel ( ) );
+	pins.add ( new JPanel ( ) );
+	pins.add ( two );
+	pins.add ( new JPanel ( ) );
+	pins.add ( three );
+	pins.add ( new JPanel ( ) );
+	pins.add ( new JPanel ( ) );
+	
+	//******************************First Row*****************
+	
+	pins.add ( new JPanel ( ) );
+	pins.add ( new JPanel ( ) );
+	pins.add ( new JPanel ( ) );
+	pins.add ( one );
+	pins.add ( new JPanel ( ) );
+	pins.add ( new JPanel ( ) );
+	pins.add ( new JPanel ( ) );
+	//*********************************************************
+	
+	top.setBackground ( Color.black );
+	
+	cpanel.add ( top, BorderLayout.NORTH );
+	
+	pins.setBackground ( Color.black );
+	pins.setForeground ( Color.yellow );
+	
+	cpanel.add ( pins, BorderLayout.CENTER );
+	
+	frame.pack();
+	
+	
+//	frame.show();
+    }
+    
+    
+    /**
+     * This method receives a pinsetter event.  The event is the current
+     * state of the PinSetter and the method changes how the GUI looks
+     * accordingly.  When pins are "knocked down" the corresponding label
+     * is grayed out.  When it is the second roll, it is indicated by the
+     * appearance of a second yellow box at the top.
+     *
+     * @param e    The state of the pinsetter is sent in this event.
+     */
+    
+
+    public void receivePinsetterEvent(PinsetterEvent pe){
+	if ( !(pe.isFoulCommited()) ) {
+	    	JLabel tempPin = new JLabel ( );
+	    	for ( int c = 0; c < 10; c++ ) {
+				boolean pin = pe.pinKnockedDown ( c );
+				tempPin = (JLabel)pinVect.get ( c );
+				if ( pin ) {
+		    		tempPin.setForeground ( Color.lightGray );
+				}
+	    	}
+    	}
+		if ( pe.getThrowNumber() == 1 ) {
+	   		 secondRoll.setBackground ( Color.yellow );
+		}
+	if ( pe.pinsDownOnThisThrow() == -1) {
+		for ( int i = 0; i != 10; i++){
+			((JLabel)pinVect.get(i)).setForeground(Color.black);
+		}
+		secondRoll.setBackground( Color.black);
+	}
+    }
+    
+    public void show() {
+    	frame.show();
+    }
+
+    public void hide() {
+    	frame.hide();
+    }
+    
+    public static void main ( String args [ ] ) {
+		PinSetterView pg = new PinSetterView ( 1 );
+    }
+    
+}
+
+
+
+public class PrintableText implements Printable {
+	String text;
+	int POINTS_PER_INCH;
+
+	public PrintableText(String t) {
+		POINTS_PER_INCH = 72;
+		text = t;
+	}
+
+	public int print(Graphics g, PageFormat pageFormat, int pageIndex) {
+		if (pageIndex > 0) {
+			return NO_SUCH_PAGE;
+		}
+		
+		Graphics2D g2d = (Graphics2D) g; // Allow use of Java 2 graphics on
+
+		g2d.translate(pageFormat.getImageableX(), pageFormat.getImageableY());
+		g2d.setPaint(Color.black);
+
+		Point2D.Double pen = new Point2D.Double(0.25 * POINTS_PER_INCH, 0.25 * POINTS_PER_INCH);
+
+		Font font = new Font ("courier", Font.PLAIN, 12);
+   		FontRenderContext frc = g2d.getFontRenderContext();
+
+		String lines[] = text.split("\n");
+
+		for (int i=0; i < lines.length; i++) {		
+			if (lines[i].length() > 0) {
+				TextLayout layout = new TextLayout(lines[i], font, frc);
+				layout.draw(g2d, (float) pen.x, (float) (pen.y + i*14));
+			}
+		}
+
+		return PAGE_EXISTS;
+	}
+
+}
+
+
+
+
+public class Queue {
+	private Vector v;
+	
+	/** Queue()
+	 * 
+	 * creates a new queue
+	 */
+	public Queue() {
+		v = new Vector();
+	}
+	
+	public Object next() {
+		return v.remove(0);
+	}
+
+	public void add(Object o) {
+		v.addElement(o);
+	}
+	
+	public boolean hasMoreElements() {
+		return v.size() != 0;
+	}
+
+	public Vector asVector() {
+		return v;
+	}
+	
+}
+
+
+public class Score {
+
+    private String nick;
+    private String date;
+    private String score;
+
+    public Score( String nick, String date, String score ) {
+		this.nick=nick;
+		this.date=date;
+		this.score=score;
+    }
+
+    public String getNickName() {
+        return nick;  
+    }
+
+	public String getDate() {
+		return date;
+	}
+	
+	public String getScore() {
+		return score;
+	}
+
+	public String toString() {
+		return nick + "\t" + date + "\t" + score;
+	}
+
+}
+
+
+
+public class ScoreHistoryFile {
+
+	private static String SCOREHISTORY_DAT = "SCOREHISTORY.DAT";
+
+	public static void addScore(String nick, String date, String score)
+		throws IOException, FileNotFoundException {
+
+		String data = nick + "\t" + date + "\t" + score + "\n";
+
+		RandomAccessFile out = new RandomAccessFile(SCOREHISTORY_DAT, "rw");
+		out.skipBytes((int) out.length());
+		out.writeBytes(data);
+		out.close();
+	}
+
+	public static Vector getScores(String nick)
+		throws IOException, FileNotFoundException {
+		Vector scores = new Vector();
+
+		BufferedReader in =
+			new BufferedReader(new FileReader(SCOREHISTORY_DAT));
+		String data;
+		while ((data = in.readLine()) != null) {
+			// File format is nick\tfname\te-mail
+			String[] scoredata = data.split("\t");
+			//"Nick: scoredata[0] Date: scoredata[1] Score: scoredata[2]
+			if (nick.equals(scoredata[0])) {
+				scores.add(new Score(scoredata[0], scoredata[1], scoredata[2]));
+			}
+		}
+		return scores;
+	}
+
+}
+
+
+
+public class ScoreReport {
+
+	private String content;
+	
+	public ScoreReport( Bowler bowler, int[] scores, int games ) {
+		String nick = bowler.getNick();
+		String full = bowler.getFullName();
+		Vector v = null;
+		try{
+			v = ScoreHistoryFile.getScores(nick);
+		} catch (Exception e){System.err.println("Error: " + e);}
+		
+		Iterator scoreIt = v.iterator();
+		
+		content = "";
+		content += "--Lucky Strike Bowling Alley Score Report--\n";
+		content += "\n";
+		content += "Report for " + full + ", aka \"" + nick + "\":\n";
+		content += "\n";
+		content += "Final scores for this session: ";
+		content += scores[0];
+		for (int i = 1; i < games; i++){
+			content += ", " + scores[i];
+		}
+		content += ".\n";
+		content += "\n";
+		content += "\n";
+		content += "Previous scores by date: \n";
+		while (scoreIt.hasNext()){
+			Score score = (Score) scoreIt.next();
+			content += "  " + score.getDate() + " - " +  score.getScore();
+			content += "\n";
+		}
+		content += "\n\n";
+		content += "Thank you for your continuing patronage.";
+
+	}
+
+	public void sendEmail(String recipient) {
+		try {
+			Socket s = new Socket("osfmail.rit.edu", 25);
+			BufferedReader in =
+				new BufferedReader(
+					new InputStreamReader(s.getInputStream(), "8859_1"));
+			BufferedWriter out =
+				new BufferedWriter(
+					new OutputStreamWriter(s.getOutputStream(), "8859_1"));
+
+			String boundary = "DataSeparatorString";
+
+			// here you are supposed to send your username
+			sendln(in, out, "HELO world");
+			sendln(in, out, "MAIL FROM: <mda2376@rit.edu>");
+			sendln(in, out, "RCPT TO: <" + recipient + ">");
+			sendln(in, out, "DATA");
+			sendln(out, "Subject: Bowling Score Report ");
+			sendln(out, "From: <Lucky Strikes Bowling Club>");
+
+			sendln(out, "Content-Type: text/plain; charset=\"us-ascii\"\r\n");
+			sendln(out, content + "\n\n");
+			sendln(out, "\r\n");
+
+			sendln(in, out, ".");
+			sendln(in, out, "QUIT");
+			s.close();
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
+	public void sendPrintout() {
+		PrinterJob job = PrinterJob.getPrinterJob();
+
+		PrintableText printobj = new PrintableText(content);
+
+		job.setPrintable(printobj);
+
+		if (job.printDialog()) {
+			try {
+				job.print();
+			} catch (PrinterException e) {
+				System.out.println(e);
+			}
+		}
+
+	}
+
+	public void sendln(BufferedReader in, BufferedWriter out, String s) {
+		try {
+			out.write(s + "\r\n");
+			out.flush();
+			// System.out.println(s);
+			s = in.readLine();
+			// System.out.println(s);
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
+	public void sendln(BufferedWriter out, String s) {
+		try {
+			out.write(s + "\r\n");
+			out.flush();
+			System.out.println(s);
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+}
